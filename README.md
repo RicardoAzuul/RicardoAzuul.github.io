@@ -36,8 +36,15 @@ In addition, you may also use this section to discuss plans for additional featu
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+- [Visual Studio Code](https://code.visualstudio.com/)
+    - a free IDE with enough features to be useful but not so many features that only make you confused.
+- [Live Server](https://ritwickdey.github.io/vscode-live-server/)
+    - a Visual Studio Code extension that allows you to host your site on your local machine, for quick debugging, testing and developing.
+- [GitHub](https://github.com)
+    - for hosting the git repository and providing the GitHub pages static site hosting functionality.
+- [git]9https://git-scm.com/)
+    - as the de facto source code management tool.
+
 
 
 ## Testing
@@ -77,7 +84,7 @@ Fork button
 ### Run locally
 
 1. If you want to run the project locally, simply clone the repository: git clone https://github.com/RicardoAzuul/RicardoAzuul.github.io.git
-2. Using Visual Studio Code, search for the [Live Server](https://github.com/ritwickdey/vscode-live-server) extension by Ritwick Dey and install it.
+2. Using Visual Studio Code, search for the [Live Server](https://ritwickdey.github.io/vscode-live-server/) extension by Ritwick Dey and install it.
 3. Press F1 in Visual Studio Code and in the search bar that pops up look for Live Server and start it.
 4. This will start a browser on your own machine hosting the website locally. 
 
