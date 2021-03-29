@@ -50,6 +50,10 @@ In addition, you may also use this section to discuss plans for additional featu
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+    - provides the content and structure of the site.
+- [CSS3]9https://en.wikipedia.org/wiki/CSS3)
+    - provides the formatting, layout and styling of the site.
 - [Visual Studio Code](https://code.visualstudio.com/)
     - a free IDE with enough features to be useful but not so many features that only make you confused.
 - [Live Server](https://ritwickdey.github.io/vscode-live-server/)
@@ -116,4 +120,4 @@ Fork button
 - I received inspiration for this project from my wife, Elizabeth Lane. She knows I'm enthousiastic about roleplaying games, and she offered creating this site as a suggestion for my first Milestone Project for Code Institute's Diploma in Software Development.
 - I also received help and support from my mentor at Code Institute, [Jack Wachira](https://github.com/iamjackwachira)
 - thanks to Ritwick Dey for the Live Server extension to quickly run the site locally for rapid development.
-- thanks to all the people at Code Institute for providing the Diploma in Software Development course and giving me the tools and guidance to create this site.
+- thanks to all the people at [Code Institute](https://codeinstitute.net/) for providing the Diploma in Software Development course and giving me the tools and guidance to create this site.
