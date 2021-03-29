@@ -1,7 +1,7 @@
-# Rollplay Cafe
+# Roleplay Cafe
 
 This project is for a static website for a non-existing cafe: the Roleplay Cafe.
-The Rollplay Cafe specializes in providing a venue and resources for roleplaying enthousiasts. 
+The Roleplay Cafe specializes in providing a venue and resources for roleplaying enthousiasts. 
 
 As such, the site needs to meet the needs of both users and owners:
 - new users need to be able to quickly learn about the Roleplay Cafe
