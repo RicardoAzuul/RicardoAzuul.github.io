@@ -52,7 +52,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
     - provides the content and structure of the site.
-- [CSS3]9https://en.wikipedia.org/wiki/CSS3)
+- [CSS3](https://en.wikipedia.org/wiki/CSS3)
     - provides the formatting, layout and styling of the site.
 - [Visual Studio Code](https://code.visualstudio.com/)
     - a free IDE with enough features to be useful but not so many features that only make you confused.
