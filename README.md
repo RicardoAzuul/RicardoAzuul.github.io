@@ -7,6 +7,20 @@ As such, the site needs to meet the needs of both users and owners:
 - new users need to be able to quickly learn about the Roleplay Cafe
 - returning users need to quickly find relevant information, for instance about events
 - the owners want to convert new users into recurring users and have recurring users return to the cafe
+
+## Table of Contents
+1. [UX](##UX)
+2. [Features](##Features)
+    - [Existing_Features](###ExistingFeatures)
+    - [Features_left_to_implement](###Features_Left_to_Implement)
+3. [Technologies_Used](##Technologies_Used)
+4. [Testing](##Testing)
+5. [Deployment](##Deployment)
+    - [Run_locally](##Run_locally)
+6. [Credits](##Credits)
+    - [Content](###Content)
+    - [Media](###Media)
+    - [Acknowledgements](###Acknowledgements)
  
 ## UX
  
