@@ -74,15 +74,12 @@ Fork button
 8. Choosing a theme will apply one of several themes available. This add a _config.yml file to the repository.
 9. After the theme has been applied, simply delete _config.yml from the repository to delete the theme and you'll have a GitHub Pages of Roleplay Cafe just like mine!
 
+### Run locally
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
+1. If you want to run the project locally, simply clone the repository: git clone https://github.com/RicardoAzuul/RicardoAzuul.github.io.git
+2. Using Visual Studio Code, search for the [Live Server](https://github.com/ritwickdey/vscode-live-server) extension by Ritwick Dey and install it.
+3. Press F1 in Visual Studio Code and in the search bar that pops up look for Live Server and start it.
+4. This will start a browser on your own machine hosting the website locally. 
 
 
 ## Credits
@@ -96,4 +93,6 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Acknowledgements
 
 - I received inspiration for this project from my wife, Elizabeth Lane. She knows I'm enthousiastic about roleplaying games, and she offered creating this site as a suggestion for my first Milestone Project for Code Institute's Diploma in Software Development.
-- I also received help and support from my mentor at Code Institute, [Jack Wachira] (https://github.com/iamjackwachira)
+- I also received help and support from my mentor at Code Institute, [Jack Wachira](https://github.com/iamjackwachira)
+- thanks to Ritwick Dey for the Live Server extension to quickly run the site locally for rapid development.
+- thanks to all the people at Code Institute for providing the Diploma in Software Development course and giving me the tools and guidance to create this site.
