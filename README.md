@@ -63,8 +63,16 @@ If this section grows too long, you may want to split it off into a separate fil
 ## Deployment
 
 This site is deployed to Github Pages. If you want to deploy it yourself:
-1. Clone this repository to your own dev environment: git clone https://github.com/RicardoAzuul/RicardoAzuul.github.io.git
-2. Create a new repository on your own Github profile
+1. On GitHub, navigate to the RicardoAzuul/RicardoAzuul.github.io repository.
+2. In the top-right corner of the page, click Fork.
+Fork button
+3. GitHub will fork the repository with the same name under your GitHub profile.
+4. Rename the repository on your own Github profile, with a specific name: [YourGitHubUsername.github.io].
+5. Go to the Settings of this repository.
+6. Scroll all the way down, to right above the Danger Zone.
+7. Here you can set the repository up to serve as the source for your GitHub Pages. In order to do so, choose a theme.
+8. Choosing a theme will apply one of several themes available. This add a _config.yml file to the repository.
+9. After the theme has been applied, simply delete _config.yml from the repository to delete the theme and you'll have a GitHub Pages of Roleplay Cafe just like mine!
 
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
