@@ -1,8 +1,12 @@
-# Your Project's Name
+# Rollplay Cafe
 
-One or two paragraphs providing an overview of your project.
+This project is for a static website for a non-existing cafe: the Roleplay Cafe.
+The Rollplay Cafe specializes in providing a venue and resources for roleplaying enthousiasts. 
 
-Essentially, this part is your sales pitch.
+As such, the site needs to meet the needs of both users and owners:
+- new users need to be able to quickly learn about the Roleplay Cafe
+- returning users need to quickly find relevant information, for instance about events
+- the owners want to convert new users into recurring users and have recurring users return to the cafe
  
 ## UX
  
@@ -58,6 +62,11 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Deployment
 
+This site is deployed to Github Pages. If you want to deploy it yourself:
+1. Clone this repository to your own dev environment: git clone https://github.com/RicardoAzuul/RicardoAzuul.github.io.git
+2. Create a new repository on your own Github profile
+
+
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
 In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
@@ -78,4 +87,4 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from my wife, Elizabeth Lane. She knows I'm enthousiastic about roleplaying games, and she offered creating this site as a suggestion for my first Milestone Project for Code Institute's Diploma in Software Development.
