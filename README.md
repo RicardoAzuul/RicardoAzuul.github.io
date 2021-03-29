@@ -88,3 +88,4 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Acknowledgements
 
 - I received inspiration for this project from my wife, Elizabeth Lane. She knows I'm enthousiastic about roleplaying games, and she offered creating this site as a suggestion for my first Milestone Project for Code Institute's Diploma in Software Development.
+- I also received help and support from my mentor at Code Institute, [Jack Wachira] (https://github.com/iamjackwachira)
