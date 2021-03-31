@@ -46,13 +46,40 @@ As such, the site needs to meet the needs of both visitors and owners:
 
 #### The Strategy Plane
 
+For the owners of the Roleplay Cafe, the site needs to achieve the following:
+- inform visitors to the site what the Roleplay Cafe offers.
+- turn visitors to the site into visitors of the cafe, and ideally recurring visitors too.
+
+The value of the site for the owners: amount of visitors to the Cafe increase, website visitors register their games and more games are being offered by the Cafe, building a tribe of like-minded visitors.
+
+For the visitors, the site needs to achieve the following:
+- allow them to quickly figure out what the Roleplay Cafe offers
+- find out about roleplaying games they can join
+- submit a game they want to run as game master
+- find out about events
+
+The value of the site for site visitors: quickly learn about a cool new cafe in town and get to meet people with similar interests.
+
+
 #### The Scope Plane
+Which features, based on information from the strategy plane, do you want to include in your design?
+
+Functional specifications and content requirements
 
 #### The Structure Plane
+How is the information structured and how is it logically grouped?
+
+Interaction design and information design
 
 #### The Skeleton Plane
+How will our information be represented, and how will the user navigate to the information and the features?
+
+Interface design, navigation design and information design
 
 #### The Surface Plane
+What will the finished product look like? What colors, typography and design elements will we use?
+
+Visual design
 
 
 
