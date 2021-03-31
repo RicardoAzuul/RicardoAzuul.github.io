@@ -3,31 +3,38 @@
 This project is for a static website for a non-existing cafe: the Roleplay Cafe.
 The Roleplay Cafe specializes in providing a venue and resources for roleplaying enthousiasts. 
 
-As such, the site needs to meet the needs of both users and owners:
+As such, the site needs to meet the needs of both visitors and owners:
 - new visitors need to be able to quickly learn about the Roleplay Cafe.
 - returning visitors need to quickly find relevant information, for instance about events.
 - the owners want to convert new visitors into recurring visitors and have recurring visitors return to the cafe.
 
+---
+
 ## Table of Contents
-1. [UX](##UX)
-2. [Features](##Features)
-    - [Existing_Features](###ExistingFeatures)
-    - [Features_left_to_implement](###Features_Left_to_Implement)
-3. [Technologies_Used](##Technologies_Used)
-4. [Testing](##Testing)
-5. [Deployment](##Deployment)
-    - [Run_locally](##Run_locally)
-6. [Credits](##Credits)
-    - [Content](###Content)
-    - [Media](###Media)
-    - [Acknowledgements](###Acknowledgements)
- 
+1. [UX](#UX)
+    1. [The_5_Planes_of_UX_Design](#The_5_Planes_of_UX_Design)
+        1. [The_Strategy_Plane](#The_Strategy_Plane)
+        2. [The_Scope_Plane](#_The_Scope_Plane)
+        3. [The_Structure_Plane](#The_Structure_Plane)
+        4. [The_Skeleton_Plane](#The_Skeleton_Plane)
+        5. [The_Surface_Plane](#The_Surface_Plane)
+2. [Features](#Features)
+    1. [Existing_Features](#Existing_Features)
+    2. [Features_left_to_implement](#Features_Left_to_Implement)
+3. [Technologies_Used](#Technologies_Used)
+4. [Testing](#Testing)
+5. [Deployment](#Deployment)
+    1. [Run_locally](#Run_locally)
+6. [Credits](#Credits)
+    1. [Content](#Content)
+    2. [Media](#Media)
+    3. [Acknowledgements](#Acknowledgements)
+
+---
+
 ## UX
  
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-
+ User stories:
 - As a potential customer of the cafe, I want to visit the site and quickly determine if the cafe is suitable for me, so I can decide to visit. I will look at location, opening times and the menu. Some photos to give a sense of the ambience would be nice too.
 - As a recurring customer of the cafe, I want to visit the site to see what events are on and when, so I can decide which events to go to. I want to see when these events are planned, if they recur, and a brief description of these events.
 - As a potential customer of the cafe who wants to be a game master for a roleplaying game, I want to visit the site to see what resources the cafe provides for hosting my game, so I can decide to host my game at the cafe. I want to have an overview of the resources provided - dice, character sheets, a sound system, perhaps a booth? - any possible costs associated with them and when the resources are available.
@@ -35,14 +42,29 @@ In particular, as part of this section we recommend that you provide a list of U
 - As a potential customer of the cafe who is new to roleplaying games, I want to visit the site to see what the cafe offers to help me learn about this hobby, so I can decide to go to the cafe.
 
 
+### The 5 Planes of UX Design
+
+#### The Strategy Plane
+
+#### The Scope Plane
+
+#### The Structure Plane
+
+#### The Skeleton Plane
+
+#### The Surface Plane
+
+
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+
+---
 
 ## Features
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
-### Existing Features
+### Existing_Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
 - ...
 
@@ -50,10 +72,19 @@ For some/all of your features, you may choose to reference the specific project 
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-### Features Left to Implement
-- Another feature idea
+### Features_Left_to_Implement
+- Navigation bar, for quick navigation to the site's separate pages
+- Header
+- Footer
+- Form for game masters to inform the cafe about games they want to run
+- A photo gallery to indicate the ambience
+- A page for players, with a call to action: perhaps a weekly tournament?
+- A page for game masters, with a call to action: sign your game up and win
+- A page for newbies, with a call to action: join this weekly newbie friendly game.
 
-## Technologies Used
+---
+
+## Technologies_Used
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
@@ -67,10 +98,10 @@ In this section, you should mention all of the languages, frameworks, libraries,
     - a Visual Studio Code extension that allows you to host your site on your local machine, for quick debugging, testing and developing.
 - [GitHub](https://github.com)
     - for hosting the git repository and providing the GitHub pages static site hosting functionality.
-- [git]9https://git-scm.com/)
+- [git](https://git-scm.com/)
     - as the de facto source code management tool.
 
-
+---
 
 ## Testing
 
@@ -92,6 +123,8 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
+---
+
 ## Deployment
 
 This site is deployed to Github Pages. If you want to deploy it yourself:
@@ -106,13 +139,14 @@ Fork button
 8. Choosing a theme will apply one of several themes available. This add a _config.yml file to the repository.
 9. After the theme has been applied, simply delete _config.yml from the repository to delete the theme and you'll have a GitHub Pages of Roleplay Cafe just like mine!
 
-### Run locally
+### Run_locally
 
 1. If you want to run the project locally, simply clone the repository: git clone https://github.com/RicardoAzuul/RicardoAzuul.github.io.git
 2. Using Visual Studio Code, search for the [Live Server](https://ritwickdey.github.io/vscode-live-server/) extension by Ritwick Dey and install it.
 3. Press F1 in Visual Studio Code and in the search bar that pops up look for Live Server and start it.
 4. This will start a browser on your own machine hosting the website locally. 
 
+---
 
 ## Credits
 
