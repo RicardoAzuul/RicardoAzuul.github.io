@@ -114,7 +114,23 @@ Interaction design and information design
 
 All pages should have the same navigation bar and footer:
 - the navigation bar contains links to all the pages, as well as the home page
-- the footer contains the Roleplay Cafe's address and social links 
+- the footer contains the Roleplay Cafe's address and social links
+
+<ins>The Home Page</ins>
+- a hero image to inspire visitors of the site to visit the Cafe
+- a short text about the Roleplay Cafe
+- the next upcoming event, and a link to the agenda
+- more photos of the Cafe/roleplaying
+- a short text about the menu, and a link to it
+- an embedded Google maps indicating the location
+
+<ins>The Players' page</ins>
+
+<ins>the Gamemasters' page</ins>
+
+<ins>The Newbies' page</ins>
+
+
 
 #### The Skeleton Plane
 How will our information be represented, and how will the user navigate to the information and the features?
@@ -221,6 +237,13 @@ Fork button
 ---
 
 ## Credits
+
+### Inspiration
+The following websites were used for inspiration:
+- https://ranked.bar/
+https://www.vrarcade.nl/nl/locaties/amsterdam-noord
+https://blastgalaxy.nl/
+
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
