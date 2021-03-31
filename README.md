@@ -60,6 +60,27 @@ For the visitors, the site needs to achieve the following:
 
 The value of the site for site visitors: quickly learn about a cool new cafe in town and get to meet people with similar interests.
 
+The owners of the Roleplay Cafe want to have a website designed in order to reach more potential customers and to keep their customers.
+
+The goals of the website are thus:
+- inform potential customers of what the Roleplay Cafe has on offer.
+- inform returning customers of what the Roleplay Cafe has on offer.
+
+The users we are focusing on:
+- players of roleplaying games who are looking for a place to socialize with others like them, try out new roleplaying games, find new groups to play with.
+- gamemasters of roleplaying games, who are looking for a place to host their games and find new players.
+- people who are interested in roleplaying games, but have little to no experience and are looking to learn more.
+
+The tasks that we will help users solve:
+- find the basic details of the Roleplay Cafe: opening times, location, an idea of the menu.
+- find events that are hosted at the Roleplay Cafe.
+- for the gamemasters: submit their game idea, so the Roleplay Cafe can add it to the regular games.
+- for the gamemasters: find out the resources the Roleplay Cafe has on offer, and if necessary reserve them.
+- for people curious about roleplaying games: discover what the Roleplay Cafe and roleplaying is about, using photos of the Roleplay Cafe and perhaps some videos about roleplaying games.
+
+Why will users use our solution:
+- it's the easiest way to find out what the Roleplay Cafe is about and what is on offer. Walking in might be confusing, and you would have to find it first.
+
 
 #### The Scope Plane
 Which features, based on information from the strategy plane, do you want to include in your design?
