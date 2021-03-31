@@ -44,6 +44,8 @@ As such, the site needs to meet the needs of both visitors and owners:
 
 ### The 5 Planes of UX Design
 
+We use Jesse James Garret's 5 planes of UX design to design the site. We start off at the Strategy Plane, as below.
+
 #### The Strategy Plane
 
 For the owners of the Roleplay Cafe, the site needs to achieve the following:
@@ -72,7 +74,7 @@ The users we are focusing on:
 - people who are interested in roleplaying games, but have little to no experience and are looking to learn more.
 
 The tasks that we will help users solve:
-- find the basic details of the Roleplay Cafe: opening times, location, an idea of the menu.
+- find the basic details of the Roleplay Cafe: opening times, location, an idea of the menu, social media
 - find events that are hosted at the Roleplay Cafe.
 - for the gamemasters: submit their game idea, so the Roleplay Cafe can add it to the regular games.
 - for the gamemasters: find out the resources the Roleplay Cafe has on offer, and if necessary reserve them.
@@ -87,10 +89,32 @@ Which features, based on information from the strategy plane, do you want to inc
 
 Functional specifications and content requirements
 
+The functional specifications of the site:
+- A responsive website, mobile first design - for users on the move or who happen to find themselves near or in the Cafe - with at least the following pages:
+    - a Home page to give a quick overview of the Roleplay Cafe: menu, photos, opening times, location.
+    - a page for players to give an overview of games and events on offer.
+    - a page for gamemasters to give an overview of the resources on offer and a form to submit their game idea.
+    - a page for newbies, that tries to quickly explain what roleplaying and the Roleplay Cafe is about.
+    - the Home page has a Jumbotron featuring the next event.
+    - the players' page has a Jumbotron featuring the next event.
+    - the gamemasters'  page has a Jumbotron featuring new resources on offer.
+    - the newbies' page has a Jumbotron featuring the next event for beginners.
+
+Content requirements:
+- Photos of the Roleplay Cafe and its facilities
+- A list of events
+- Inspirational images and texts to entice users to come visit
+- a short text about roleplaying and the Roleplay Cafe to entice new visitors
+    
+
 #### The Structure Plane
 How is the information structured and how is it logically grouped?
 
 Interaction design and information design
+
+All pages should have the same navigation bar and footer:
+- the navigation bar contains links to all the pages, as well as the home page
+- the footer contains the Roleplay Cafe's address and social links 
 
 #### The Skeleton Plane
 How will our information be represented, and how will the user navigate to the information and the features?
