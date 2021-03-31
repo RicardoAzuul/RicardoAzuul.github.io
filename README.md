@@ -4,9 +4,9 @@ This project is for a static website for a non-existing cafe: the Roleplay Cafe.
 The Roleplay Cafe specializes in providing a venue and resources for roleplaying enthousiasts. 
 
 As such, the site needs to meet the needs of both users and owners:
-- new users need to be able to quickly learn about the Roleplay Cafe
-- returning users need to quickly find relevant information, for instance about events
-- the owners want to convert new users into recurring users and have recurring users return to the cafe
+- new visitors need to be able to quickly learn about the Roleplay Cafe.
+- returning visitors need to quickly find relevant information, for instance about events.
+- the owners want to convert new visitors into recurring visitors and have recurring visitors return to the cafe.
 
 ## Table of Contents
 1. [UX](##UX)
