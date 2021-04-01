@@ -155,6 +155,10 @@ All pages should have the same navigation bar and footer:
 - a text on how to get get to the Roleplay Cafe.
 - a link that opens a well-known website for planning your public transport.
 
+<ins>The About Page</ins>
+- a brief history of the Roleplay Cafe and why it was opened.
+- a brief history of the owners.
+
 
 #### The Skeleton Plane
 How will our information be represented, and how will the user navigate to the information and the features?
