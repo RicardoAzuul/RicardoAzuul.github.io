@@ -169,6 +169,7 @@ Interface design, navigation design and information design
 What will the finished product look like? What colors, typography and design elements will we use?
 
 1. Icons are sourced from Font Awesome, to add to various pages, and to link to various social media channels.
+2. Fonts are sourced from Google Fonts. I decided on New Tegomin for simulating an old type-writer, and Montserrat offset that by being clean and modern.
 
 Visual design
 
