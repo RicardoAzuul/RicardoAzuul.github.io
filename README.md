@@ -267,6 +267,7 @@ The following websites were used for inspiration:
 - https://ranked.bar/
 - https://www.vrarcade.nl/nl/locaties/amsterdam-noord
 - https://blastgalaxy.nl/
+- https://mollysarena.nl/
 
 
 ### Content
