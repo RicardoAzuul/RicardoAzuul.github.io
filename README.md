@@ -168,6 +168,8 @@ Interface design, navigation design and information design
 #### The Surface Plane
 What will the finished product look like? What colors, typography and design elements will we use?
 
+1. Icons are sourced from Font Awesome, to add to various pages, and to link to various social media channels.
+
 Visual design
 
 
