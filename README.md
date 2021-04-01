@@ -95,16 +95,20 @@ The functional specifications of the site:
     - a page for players to give an overview of games and events on offer.
     - a page for gamemasters to give an overview of the resources on offer and a form to submit their game idea.
     - a page for newbies, that tries to quickly explain what roleplaying and the Roleplay Cafe is about.
+    - a page for the drinks and food menu.
+    - a page with instructions how to get to the Roleplay cafe.
+    - a page with a brief history of the Roleplay Cafe and its owners, the About page.
     - the Home page has a Jumbotron featuring the next event.
     - the players' page has a Jumbotron featuring the next event.
     - the gamemasters'  page has a Jumbotron featuring new resources on offer.
     - the newbies' page has a Jumbotron featuring the next event for beginners.
 
 Content requirements:
-- Photos of the Roleplay Cafe and its facilities
-- A list of events
-- Inspirational images and texts to entice users to come visit
-- a short text about roleplaying and the Roleplay Cafe to entice new visitors
+- Photos of the Roleplay Cafe and its facilities.
+- A list of events.
+- A list of resources for gamemasters. 
+- Inspirational images and texts to entice users to come visit.
+- A short text about roleplaying and the Roleplay Cafe to entice new visitors.
     
 
 #### The Structure Plane
@@ -117,19 +121,39 @@ All pages should have the same navigation bar and footer:
 - the footer contains the Roleplay Cafe's address and social links
 
 <ins>The Home Page</ins>
-- a hero image to inspire visitors of the site to visit the Cafe
-- a short text about the Roleplay Cafe
-- the next upcoming event, and a link to the agenda
-- more photos of the Cafe/roleplaying
-- a short text about the menu, and a link to it
-- an embedded Google maps indicating the location
+- a hero image to inspire visitors of the site to visit the Cafe.
+- a short text about the Roleplay Cafe.
+- the next upcoming event, and a link to the agenda.
+- more photos of the Cafe/roleplaying.
+- a short text about the menu, and a link to it.
+- an embedded Google maps indicating the location.
+- a form to sign up for the newsletter.
 
 <ins>The Players' page</ins>
+- more in-depth information about the Roleplay Cafe for players: what does the Cafe offer for them.
+- a list of games looking for players, and events, so players can sign up.
+- more inspiring photos.
+
 
 <ins>the Gamemasters' page</ins>
+- more in-depth information about the Roleplay Cafe for gamemasters: what does the Cafe offer for them.
+- a form to submit their game idea.
+- a list of resources the Roleplay Cafe has on offer.
+- more inspiring photos.
+
 
 <ins>The Newbies' page</ins>
+- a very quick introduction for newbies about roleplaying.
+- photos to inspire.
+- a Jumbotron to entice them to join up with a newbie-friendly game.
 
+<ins>The Menu</ins>
+- photos of food and drinks.
+- an overview of the food and drink menu.
+
+<ins>How to get to the Roleplay Cafe</ins>
+- a text on how to get get to the Roleplay Cafe.
+- a link that opens a well-known website for planning your public transport.
 
 
 #### The Skeleton Plane
@@ -241,8 +265,8 @@ Fork button
 ### Inspiration
 The following websites were used for inspiration:
 - https://ranked.bar/
-https://www.vrarcade.nl/nl/locaties/amsterdam-noord
-https://blastgalaxy.nl/
+- https://www.vrarcade.nl/nl/locaties/amsterdam-noord
+- https://blastgalaxy.nl/
 
 
 ### Content
