@@ -129,25 +129,32 @@ All pages should have the same navigation bar and footer:
 - an embedded Google maps indicating the location.
 - a form to sign up for the newsletter.
 
-<ins>The Players' page</ins>
-- more in-depth information about the Roleplay Cafe for players: what does the Cafe offer for them.
-- a list of games looking for players, and events, so players can sign up.
-- more inspiring photos.
+~~<ins>The Players' page</ins>~~
+~~- more in-depth information about the Roleplay Cafe for players: what does the Cafe offer for them.~~
+~~- a list of games looking for players, and events, so players can sign up.~~
+~~- more inspiring photos.~~
 
 
-<ins>the Gamemasters' page</ins>
-- more in-depth information about the Roleplay Cafe for gamemasters: what does the Cafe offer for them.
-- a form to submit their game idea.
-- a list of resources the Roleplay Cafe has on offer.
-- more inspiring photos.
+~~<ins>the Gamemasters' page</ins>~~
+~~- more in-depth information about the Roleplay Cafe for gamemasters: what does the Cafe offer for them.~~
+~~- a form to submit their game idea.~~
+~~- a list of resources the Roleplay Cafe has on offer.~~
+~~- more inspiring photos.~~
 
 
-<ins>The Newbies' page</ins>
-- a very quick introduction for newbies about roleplaying.
-- photos to inspire.
-- a Jumbotron to entice them to join up with a newbie-friendly game.
+~~<ins>The Newbies' page</ins>~~
+~~- a very quick introduction for newbies about roleplaying.~~
+~~- photos to inspire.~~
+~~- a Jumbotron to entice them to join up with a newbie-friendly game.~~
 
-<ins>The Menu</ins>
+<ins>Why Visit Us</ins>
+- more in-depth information for players of roleplaying games why they should visit.
+- more in-depth information for gamemasters why they should visit.
+- a form for gamemasters to submit their game idea.
+- more in-depth information for newbies why they should visit.
+- a list of events.
+
+<ins>Menu</ins>
 - photos of food and drinks.
 - an overview of the food and drink menu.
 
@@ -155,7 +162,7 @@ All pages should have the same navigation bar and footer:
 - a text on how to get get to the Roleplay Cafe.
 - a link that opens a well-known website for planning your public transport.
 
-<ins>The About Page</ins>
+<ins>About</ins>
 - a brief history of the Roleplay Cafe and why it was opened.
 - a brief history of the owners.
 
