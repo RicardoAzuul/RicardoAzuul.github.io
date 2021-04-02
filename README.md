@@ -207,18 +207,13 @@ In addition, you may also use this section to discuss plans for additional featu
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-- [HTML5](https://en.wikipedia.org/wiki/HTML5)
-    - provides the content and structure of the site.
-- [CSS3](https://en.wikipedia.org/wiki/CSS3)
-    - provides the formatting, layout and styling of the site.
-- [Visual Studio Code](https://code.visualstudio.com/)
-    - a free IDE with enough features to be useful but not so many features that only make you confused.
-- [Live Server](https://ritwickdey.github.io/vscode-live-server/)
-    - a Visual Studio Code extension that allows you to host your site on your local machine, for quick debugging, testing and developing.
-- [GitHub](https://github.com)
-    - for hosting the git repository and providing the GitHub pages static site hosting functionality.
-- [git](https://git-scm.com/)
-    - as the de facto source code management tool.
+- [HTML5](https://en.wikipedia.org/wiki/HTML5): provides the content and structure of the site.
+- [CSS3](https://en.wikipedia.org/wiki/CSS3): provides the formatting, layout and styling of the site.
+- [Visual Studio Code](https://code.visualstudio.com/): a free IDE with enough features to be useful but not so many features that only make you confused.
+- [Live Server](https://ritwickdey.github.io/vscode-live-server/): a Visual Studio Code extension that allows you to host your site on your local machine, for quick debugging, testing and developing.
+- [GitHub](https://github.com): for hosting the git repository and providing the GitHub pages static site hosting functionality.
+- [git](https://git-scm.com/): as one of the most popular source code management tools.
+- [Balsamiq](www.balsamiq.com): for creating wireframes of all the pages.
 
 ---
 
