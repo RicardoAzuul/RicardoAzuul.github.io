@@ -151,7 +151,7 @@ All pages should have the same navigation bar and footer:
 - photos of food and drinks.
 - an overview of the food and drink menu.
 
-<ins>How to get to the Roleplay Cafe</ins>
+<ins>Directions</ins>
 - a text on how to get get to the Roleplay Cafe.
 - a link that opens a well-known website for planning your public transport.
 
