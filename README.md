@@ -126,7 +126,6 @@ All pages should have the same navigation bar and footer:
 - the next upcoming event, and a link to the agenda.
 - more photos of the Cafe/roleplaying.
 - a short text about the menu, and a link to it.
-- an embedded Google maps indicating the location.
 - a form to sign up for the newsletter.
 
 ~~<ins>The Players' page</ins>~~
@@ -161,6 +160,7 @@ All pages should have the same navigation bar and footer:
 <ins>Directions</ins>
 - a text on how to get get to the Roleplay Cafe.
 - a link that opens a well-known website for planning your public transport.
+- an embedded Google maps indicating the location.
 
 <ins>About</ins>
 - a brief history of the Roleplay Cafe and why it was opened.
@@ -178,7 +178,11 @@ What will the finished product look like? What colors, typography and design ele
 1. Icons are sourced from Font Awesome, to add to various pages, and to link to various social media channels.
 2. Fonts are sourced from Google Fonts. I decided on New Tegomin for simulating an old type-writer, and Montserrat offset that by being clean and modern.
 
-Visual design
+<ins>Wireframes</ins>
+
+- [Home](/assets/readme-assets/Home.png)
+
+
 
 
 
