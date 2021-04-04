@@ -189,6 +189,7 @@ What will the finished product look like? What colors, typography and design ele
 - [Directions](/assets/readme-assets/Directions.png)
 - [Directions Mobile Version](/assets/readme-assets/Directions_mobile_view.png)
 - [About](/assets/readme-assets/About.png)
+- [About Mobile Version](/assets/readme-assets/About.png)
 
 
 
