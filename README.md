@@ -181,6 +181,10 @@ What will the finished product look like? What colors, typography and design ele
 <ins>Wireframes</ins>
 
 - [Home](/assets/readme-assets/Home.png)
+- [Why_Visit_Us](/assets/readme-assets/)
+- [Menu](/assets/readm-assets/Menu.png)
+- [Directions](/assets/readm-assets/Directions.png)
+- [About](/assets/readm-assets/About.png)
 
 
 
