@@ -181,10 +181,11 @@ What will the finished product look like? What colors, typography and design ele
 <ins>Wireframes</ins>
 
 - [Home](/assets/readme-assets/Home.png)
-- [Mobile Version](/assets/readme-assets/Home_mobile_view.png)
+- [Home Mobile Version](/assets/readme-assets/Home_mobile_view.png)
 - [Why Visit Us](/assets/readme-assets/Why_Visit_Us.png)
-- [Mobile Version](assets/readme-assets/Why_Visit_Us_mobile_view.png)
+- [Why Visit Us Mobile Version](assets/readme-assets/Why_Visit_Us_mobile_view.png)
 - [Menu](/assets/readme-assets/Menu.png)
+- [Menu Mobile Version](/assets/readme-assets/Menu_mobile_view.png)
 - [Directions](/assets/readme-assets/Directions.png)
 - [About](/assets/readme-assets/About.png)
 
