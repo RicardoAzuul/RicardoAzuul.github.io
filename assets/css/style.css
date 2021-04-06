@@ -18,11 +18,20 @@ font-family: 'New Tegomin', serif; */
 #5A94B8
 */
 
+/* Navigation */
+
 #navigation {
     background-color: #542c23;
     color: #fefefe;
 }
 
 #navigation a {
+    color: #fefefe;
+}
+
+/* Footer */
+
+#footer {
+    background-color: #542c23;
     color: #fefefe;
 }
