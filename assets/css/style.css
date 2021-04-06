@@ -17,3 +17,12 @@ font-family: 'New Tegomin', serif; */
 #C7D5ED
 #5A94B8
 */
+
+#navigation {
+    background-color: #542c23;
+    color: #fefefe;
+}
+
+#navigation a {
+    color: #fefefe;
+}
