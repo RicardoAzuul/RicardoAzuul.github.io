@@ -65,9 +65,14 @@ footer h5 {
     color:#fefefe;
 }
 
-#footer a:hover {
+#social a {
+    padding-right: 30px;
+}
+
+#social a:hover {
     text-decoration: none;
 }
+
 
 #social a i {
     width: 40px;
