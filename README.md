@@ -175,8 +175,26 @@ Interface design, navigation design and information design
 #### The Surface Plane
 What will the finished product look like? What colors, typography and design elements will we use?
 
+1. For the color palette I wanted something that makes one think of an old bar or cafe, but with a little bit of magic injected. I found concept art of a bar in the Dungeons & Dragons world of Eberron, which had both: lots of dark browns, but also magical colours.
+
+I used EyeDropper to create these palettes:
+
+#542C23
+#6B382D
+#EB7B63
+#F78268
+#D16E58
+
+And for contrast:
+
+#FFFE97
+#858319
+#EBD68A
+#C7D5ED
+#5A94B8
+
 1. Icons are sourced from Font Awesome, to add to various pages, and to link to various social media channels.
-2. Fonts are sourced from Google Fonts. I decided on New Tegomin for simulating an old type-writer, and Montserrat offset that by being clean and modern.
+1. Fonts are sourced from Google Fonts. I decided on New Tegomin for simulating an old type-writer, and Montserrat offset that by being clean and modern.
 
 <ins>Wireframes</ins>
 
