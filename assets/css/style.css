@@ -29,6 +29,8 @@
 #navigation {
     background-color: #542c23;
     color: #fefefe;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 #navigation h1 {
@@ -43,19 +45,33 @@
 
 #navigation ul {
     list-style: none;
+    float: right;
 }
 
 #navigation li {
     display: inline;
     font-family: 'Montserrat', sans-serif;
-    float: right;
 }
+
+/* Section */
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 
 /* Footer */
 
 #footer {
     background-color: #542c23;
     color: #fefefe;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#footer p {
+    margin: 0;
 }
 
 #footer a {
