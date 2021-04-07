@@ -69,9 +69,11 @@ footer h5 {
 }
 
 #social a i {
-    width: 36px;
-    height: 36px;
-    background-color: #fefefe;
+    width: 40px;
+    height: 40px;
+    background-color: #6B382D ;
+    text-align: center;
+    padding: 12px 0;
 }
 
 
