@@ -68,6 +68,11 @@ section {
     
 }
 
+footer h5 {
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
 #footer p {
     margin: 0;
 }
@@ -75,3 +80,9 @@ section {
 #footer a {
     color:#fefefe;
 }
+
+#footer a:hover {
+    text-decoration: none;
+}
+
+
