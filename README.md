@@ -234,6 +234,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [GitHub](https://github.com): for hosting the git repository and providing the GitHub pages static site hosting functionality.
 - [git](https://git-scm.com/): as one of the most popular source code management tools.
 - [Balsamiq](www.balsamiq.com): for creating wireframes of all the pages.
+- [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/): for quick debugging and testing of HTML and CSS. 
 
 ---
 
