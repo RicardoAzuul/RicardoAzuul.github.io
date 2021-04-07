@@ -21,6 +21,14 @@
     text-transform: uppercase;
 }
 
+#navigation h1 a:hover {
+    text-decoration: none;
+}
+
+#cafe-name {
+    font-size: 130%;
+}
+
 #navigation a {
     color: #fefefe;
 }
