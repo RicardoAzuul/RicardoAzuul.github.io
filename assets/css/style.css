@@ -29,8 +29,7 @@
 #navigation {
     background-color: #542c23;
     color: #fefefe;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 20px;
 }
 
 #navigation h1 {
@@ -55,8 +54,7 @@
 
 /* Section */
 section {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 20px;
 }
 
 
@@ -66,8 +64,8 @@ section {
     background-color: #542c23;
     color: #fefefe;
     font-family: 'Montserrat', sans-serif;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 20px;
+    
 }
 
 #footer p {
