@@ -94,4 +94,9 @@ footer h5 {
     border-width: 1px;
 }
 
-
+/* Media queries */
+@media(max-width: 576px) {
+    #cafe-name {
+        font-size: 60%;
+    }
+}
