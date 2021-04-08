@@ -100,3 +100,9 @@ footer h5 {
         font-size: 60%;
     }
 }
+
+@media screen and (max-width: 1320px) and (min-width: 576px) {
+    #navigation li {
+        display: block;
+    }
+}
