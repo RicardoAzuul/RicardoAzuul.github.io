@@ -99,6 +99,14 @@ footer h5 {
     #cafe-name {
         font-size: 60%;
     }
+    .navbar {
+        padding: 0;
+    } 
+    #navigation {
+        padding: 0;
+        padding-left: 20px;
+    }
+
 }
 
 @media screen and (max-width: 1320px) and (min-width: 576px) {
