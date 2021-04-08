@@ -61,6 +61,7 @@ section {
 }
 
 footer h5 {
+    font-family: 'New Tegomin', serif;
     text-transform: uppercase;
     padding-top: 20px;
     padding-bottom: 10px;
@@ -94,6 +95,11 @@ footer h5 {
     border-width: 1px;
     border-color: #fefefe;
     color: #5A94B8; 
+}
+
+#social a i:hover {
+    color: #fefefe;
+    background-color: #5A94B8;
 }
 
 /* Media queries */
