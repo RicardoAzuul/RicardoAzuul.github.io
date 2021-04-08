@@ -92,6 +92,8 @@ footer h5 {
     font-size: large;
     border-style: solid;
     border-width: 1px;
+    border-color: #fefefe;
+    color: #5A94B8; 
 }
 
 /* Media queries */

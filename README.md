@@ -193,6 +193,13 @@ And for contrast:
 #C7D5ED
 #5A94B8
 
+Maybe better? Based on: https://color.adobe.com/search?q=harry%20potter
+#402F21
+#D98D30
+#2D4459
+#3A668C
+#0762D9
+
 1. Icons are sourced from Font Awesome, to add to various pages, and to link to various social media channels.
 1. Fonts are sourced from Google Fonts. I decided on New Tegomin for simulating an old type-writer, and Montserrat offset that by being clean and modern.
 
