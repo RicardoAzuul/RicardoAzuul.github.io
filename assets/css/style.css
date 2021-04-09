@@ -33,6 +33,15 @@
     color: #fefefe;
 }
 
+.active {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+#navigation a:hover {
+    text-decoration: none;
+}
+
 #navigation ul {
     list-style: none;
     float: right;
