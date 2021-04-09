@@ -328,6 +328,7 @@ The following websites were used for inspiration:
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
+- The hero image on the home page was obtained from [Unsplash](https://unsplash.com/photos/GXXYkSwndP4)
 - The photos used in this site were obtained from ...
 
 ### Acknowledgements
