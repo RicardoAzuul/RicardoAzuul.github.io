@@ -193,13 +193,6 @@ And for contrast:
 #C7D5ED
 #5A94B8
 
-Maybe better? Based on: https://color.adobe.com/search?q=harry%20potter
-#402F21
-#D98D30
-#2D4459
-#3A668C
-#0762D9
-
 1. Icons are sourced from Font Awesome, to add to various pages, and to link to various social media channels.
 1. Fonts are sourced from Google Fonts. I decided on New Tegomin for simulating an old type-writer, and Montserrat offset that by being clean and modern.
 
@@ -215,10 +208,6 @@ Maybe better? Based on: https://color.adobe.com/search?q=harry%20potter
 - [Directions Mobile Version](/assets/readme-assets/Directions_mobile_view.png)
 - [About](/assets/readme-assets/About.png)
 - [About Mobile Version](/assets/readme-assets/About.png)
-
-
-
-
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
@@ -260,6 +249,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [git](https://git-scm.com/): as one of the most popular source code management tools.
 - [Balsamiq](www.balsamiq.com): for creating wireframes of all the pages.
 - [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/): for quick debugging and testing of HTML and CSS. 
+- [Hover.css](https://ianlunn.github.io/Hover/#effects): to add a nice hover effect to the nav links.
 
 ---
 
