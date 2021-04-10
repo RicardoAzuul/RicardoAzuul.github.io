@@ -255,12 +255,12 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 ## Testing
 Navigation Links in the nav bar:
-- If you click on the Roleplay Cafe logo, do you go back to the Home page?
-- If you click on Home, do you go back to the Home page?
-- If you click on Why Visit Us, do you go to the Why Visit Us page?
-- If you click on Menu, do you go to the Menu page?
-- If you click on Directions, do you go to the Directions page?
-- If you click on About, do you go to the About page?
+- If you click on the Roleplay Cafe logo, do you go back to the Home page? And is the Home page marked active?
+- If you click on Home, do you go back to the Home page? And is the Home page marked active?
+- If you click on Why Visit Us, do you go to the Why Visit Us page? And is the Why Visit Us page marked active?
+- If you click on Menu, do you go to the Menu page? And is the Menu page marked active?
+- If you click on Directions, do you go to the Directions page? And is the Directions page marked active?
+- If you click on About, do you go to the About page? And is the About page marked active?
 
 Buttons
 - If you click on Link to Events, are you taken to the Why Visit Us page with the list of events?

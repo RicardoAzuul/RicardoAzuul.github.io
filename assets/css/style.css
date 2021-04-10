@@ -145,6 +145,10 @@ footer h5 {
     background-color: #5A94B8;
 }
 
+#newsletter input {
+    display: block;
+}
+
 /* Media queries */
 @media(max-width: 576px) {
     #cafe-name {
