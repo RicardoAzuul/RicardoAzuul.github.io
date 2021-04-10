@@ -100,7 +100,7 @@
     color: #fefefe;
     font-family: 'Montserrat', sans-serif;
     padding: 20px;
-    
+    font-size: 0.8em;
 }
 
 footer h5 {
@@ -116,6 +116,10 @@ footer h5 {
 
 #footer a {
     color:#fefefe;
+}
+
+#opening-hours td {
+    padding-right: 10px;
 }
 
 #social a {
