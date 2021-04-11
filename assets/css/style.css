@@ -26,7 +26,7 @@
 }
 
 #cafe-name {
-    font-size: 130%;
+    font-size: 0.8em;
 }
 
 #navigation a {
@@ -171,9 +171,9 @@ footer h5 {
 
 /* Media queries */
 @media(max-width: 576px) {
-    #cafe-name {
+    /* #cafe-name {
         font-size: 60%;
-    }
+    } */
     .navbar {
         padding: 0;
     } 
@@ -187,12 +187,6 @@ footer h5 {
         padding-bottom: 20px;        
     }
 
-}
-
-@media screen and (max-width: 1320px) and (min-width: 576px) {
-    #navigation li {
-        display: block;
-    }
 }
 
 @media (min-width:768px) {
