@@ -12,8 +12,8 @@ As such, the site needs to meet the needs of both visitors and owners:
 
 ## Table of Contents
 1. [UX](#UX)
-    1. [The_5_Planes_of_UX_Design](#The_5_Planes_of_UX_Design)
-        1. [The_Strategy_Plane](#The_Strategy_Plane)
+    1. [Design](#Design)
+        1. [Strategy](#Strategy)
         2. [The_Scope_Plane](#_The_Scope_Plane)
         3. [The_Structure_Plane](#The_Structure_Plane)
         4. [The_Skeleton_Plane](#The_Skeleton_Plane)
@@ -42,11 +42,11 @@ As such, the site needs to meet the needs of both visitors and owners:
 - As a potential customer of the cafe who is new to roleplaying games, I want to visit the site to see what the cafe offers to help me learn about this hobby, so I can decide to go to the cafe.
 
 
-### The 5 Planes of UX Design
+### Design
 
 We use Jesse James Garret's 5 planes of UX design to design the site. We start off at the Strategy Plane, as below.
 
-#### The Strategy Plane
+#### Strategy
 
 For the owners of the Roleplay Cafe, the site needs to achieve the following:
 - inform visitors to the site what the Roleplay Cafe offers.
@@ -84,7 +84,7 @@ Why will users use our solution:
 - it's the easiest way to find out what the Roleplay Cafe is about and what is on offer. Walking in might be confusing, and you would have to find it first.
 
 
-#### The Scope Plane
+#### Scope
 Which features, based on information from the strategy plane, do you want to include in your design?
 
 Functional specifications and content requirements
@@ -111,7 +111,7 @@ Content requirements:
 - A short text about roleplaying and the Roleplay Cafe to entice new visitors.
     
 
-#### The Structure Plane
+#### Structure 
 How is the information structured and how is it logically grouped?
 
 Interaction design and information design
@@ -167,12 +167,12 @@ All pages should have the same navigation bar and footer:
 - a brief history of the owners.
 
 
-#### The Skeleton Plane
+#### Skeleton
 How will our information be represented, and how will the user navigate to the information and the features?
 
 Interface design, navigation design and information design
 
-#### The Surface Plane
+#### Surface
 What will the finished product look like? What colors, typography and design elements will we use?
 
 1. For the color palette I wanted something that makes one think of an old bar or cafe, but with a little bit of magic injected. I found concept art of a bar in the Dungeons & Dragons world of Eberron, which had both: lots of dark browns, but also magical colours.
@@ -217,7 +217,7 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
-### Existing_Features
+### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
 - ...
 
@@ -225,7 +225,7 @@ For some/all of your features, you may choose to reference the specific project 
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-### Features_Left_to_Implement
+### Features Left to Implement
 - Navigation bar, for quick navigation to the site's separate pages
 - Header
 - Footer
@@ -237,7 +237,7 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ---
 
-## Technologies_Used
+## Technologies
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
@@ -306,7 +306,7 @@ Fork button
 8. Choosing a theme will apply one of several themes available. This add a _config.yml file to the repository.
 9. After the theme has been applied, simply delete _config.yml from the repository to delete the theme and you'll have a GitHub Pages of Roleplay Cafe just like mine!
 
-### Run_locally
+### Run locally
 
 1. If you want to run the project locally, simply clone the repository: git clone https://github.com/RicardoAzuul/RicardoAzuul.github.io.git
 2. Using Visual Studio Code, search for the [Live Server](https://ritwickdey.github.io/vscode-live-server/) extension by Ritwick Dey and install it.
