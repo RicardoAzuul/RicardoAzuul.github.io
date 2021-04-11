@@ -90,10 +90,24 @@
 }
 
 #hero-image {
-    min-height: 80vh;
     max-height: 80vh;
 }
 
+img {
+    border-color: #542c23;
+    border-width: 1px;
+    border-style: solid;
+}
+
+#why-dnd {
+    width:20%;
+    height:20%;
+}
+
+#highlight {
+    width:20%;
+    height:20%;
+}
 
 /* Footer */
 
