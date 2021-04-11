@@ -12,7 +12,6 @@
 #navigation {
     background-color: #542c23;
     color: #fefefe;
-    padding: 20px;
 }
 
 #navigation h1 {
@@ -42,15 +41,8 @@
     text-decoration: none;
 }
 
-#navigation ul {
-    list-style: none;
-    float: right;
-}
-
 #navigation li {
-    display: inline;
     font-family: 'Montserrat', sans-serif;
-    padding-right: 20px;
 }
 
 /* Underline From Left */
@@ -85,7 +77,7 @@
 
 /* Section */
 .body-section {
-    padding: 56px;
+    padding: 50px;
     background-color: #fcf4f4;
 }
 
@@ -170,10 +162,10 @@ footer h5 {
 }
 
 /* Media queries */
-@media(max-width: 576px) {
-    /* #cafe-name {
-        font-size: 60%;
-    } */
+@media(max-width: 768px) {
+    #cafe-name {
+        font-size: 0.4em;
+    }
     .navbar {
         padding: 0;
     } 
@@ -189,8 +181,3 @@ footer h5 {
 
 }
 
-@media (min-width:768px) {
-    .body-section {
-        padding: 234px;
-    }
-}
