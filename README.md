@@ -250,6 +250,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [Balsamiq](www.balsamiq.com): for creating wireframes of all the pages.
 - [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/): for quick debugging and testing of HTML and CSS. 
 - [Hover.css](https://ianlunn.github.io/Hover/#effects): to add a nice hover effect to the nav links.
+- [Placeholder.com](https://placeholder.com/): to add placeholder images that help with the layout of the pages.
 
 ---
 
