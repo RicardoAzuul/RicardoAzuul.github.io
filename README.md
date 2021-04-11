@@ -12,7 +12,7 @@ As such, the site needs to meet the needs of both visitors and owners:
 
 ## Table of Contents
 1. [UX](#UX)
-    1. [The 5 Planes Design](#Design)
+    1. [The 5 Planes of Design](###The 5 Planes of Design)
         1. [Strategy](#Strategy)
         2. [The_Scope_Plane](#_The_Scope_Plane)
         3. [The_Structure_Plane](#The_Structure_Plane)
@@ -42,7 +42,7 @@ As such, the site needs to meet the needs of both visitors and owners:
 - As a potential customer of the cafe who is new to roleplaying games, I want to visit the site to see what the cafe offers to help me learn about this hobby, so I can decide to go to the cafe.
 
 
-### Design
+### The 5 Planes of Design
 
 We use Jesse James Garret's 5 planes of UX design to design the site. We start off at the Strategy Plane, as below.
 
