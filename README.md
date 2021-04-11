@@ -252,6 +252,9 @@ In this section, you should mention all of the languages, frameworks, libraries,
 ---
 
 ## Testing
+Readme.md:
+- If you click on the links in the TOC, do you navigate to the section you clicked on?
+
 Navigation Links in the nav bar:
 - If you click on the Roleplay Cafe logo, do you go back to the Home page? And is the Home page marked active?
 - If you click on Home, do you go back to the Home page? And is the Home page marked active?
