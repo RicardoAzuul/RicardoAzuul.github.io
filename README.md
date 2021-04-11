@@ -12,7 +12,7 @@ As such, the site needs to meet the needs of both visitors and owners:
 
 ## Table of Contents
 1. [UX](#UX)
-    1. [Design](#Design)
+    1. [The 5 Planes Design](#Design)
         1. [Strategy](#Strategy)
         2. [The_Scope_Plane](#_The_Scope_Plane)
         3. [The_Structure_Plane](#The_Structure_Plane)
