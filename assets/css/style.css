@@ -86,9 +86,11 @@
 /* Section */
 .body-section {
     padding: 56px;
+    background-color: #fcf4f4;
 }
 
 #hero-image {
+    min-height: 80vh;
     max-height: 80vh;
 }
 
