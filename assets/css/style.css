@@ -97,7 +97,11 @@ img {
     border-style: solid;
 }
 
-/* Embedded Youtube vids */
+/* visit.html */
+
+#nav-tab {
+    padding-top: 40px;
+}
 
 #why-dnd {
     width:20%;
@@ -109,7 +113,7 @@ img {
     height:20%;
 }
 
-/* Embedded Google map */
+/* directions.html  */
 
 .google-map-div, .directions-div {
     padding-bottom: 40px;

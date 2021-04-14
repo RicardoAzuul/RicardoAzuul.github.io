@@ -57,55 +57,46 @@
     <!-- End of header -->
 
     <section class="body-section">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col">
-                    <button>Player</button>
-                    <button>Gamemaster</button>
-                    <button>Newbie</button>
-                </div>
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <a class="nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab"
+                    aria-controls="nav-home" aria-selected="true">For the players</a>
+                <a class="nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab"
+                    aria-controls="nav-profile" aria-selected="false">For the gamemasters</a>
+                <a class="nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab"
+                    aria-controls="nav-contact" aria-selected="false">For the newbies</a>
             </div>
-        </div>
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col">
-                    <p>Text about why you should visit the Roleplay Cafe if you're a player</p>
-                    <img src="https://via.placeholder.com/150" alt="">
-                    <img src="https://via.placeholder.com/150" alt="">
-                    <img src="https://via.placeholder.com/150" alt="">
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                <p>Text about why you should visit the Roleplay Cafe if you're a player</p>
+                <img src="https://via.placeholder.com/150" alt="">
+                <img src="https://via.placeholder.com/150" alt="">
+                <img src="https://via.placeholder.com/150" alt="">
+                <div>
+                    <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                        <img src="https://via.placeholder.com/150" alt="">
+                        <img src="https://via.placeholder.com/150" alt="">
+                        <p>Text about why you should visit the Roleplay Cafe if you're a gamemaster</p>
+                        <h5>Submit your game idea:</h5>
+                        <form action="https://formdump.codeinstitute.net/" method="post">
+                            <label for="email">Sign Up For Our Newsletter!</label>
+                            <input type="email" name="email" id="email" placeholder="Email Address">
+                        </form>
+                    </div>
+                    <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
+                        <p>Text about why you should visit the Roleplay cafe if you're new to roleplaying games</p>
+                        <iframe id="why-dnd"
+                            src="https://www.youtube.com/embed/Ama2wMxq84o?list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_"
+                            title="YouTube video player" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                        <iframe id="highlight" src="https://www.youtube.com/embed/DbbMFG-w8QM"
+                            title="YouTube video player" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                    </div>
                 </div>
-            </div>
-        </div>
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col">
-                    <img src="https://via.placeholder.com/150" alt="">
-                    <img src="https://via.placeholder.com/150" alt="">
-                    <p>Text about why you should visit the Roleplay Cafe if you're a gamemaster</p>
-                    <h5>Submit your game idea:</h5>
-                    <form action="https://formdump.codeinstitute.net/" method="post">
-                        <label for="email">Sign Up For Our Newsletter!</label>
-                        <input type="email" name="email" id="email" placeholder="Email Address">
-                    </form>
-                </div>
-            </div>
-        </div>
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col">
-                    <p>Text about why you should visit the Roleplay cafe if you're new to roleplaying games</p>
-                    <iframe id="why-dnd"
-                        src="https://www.youtube.com/embed/Ama2wMxq84o?list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_"
-                        title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen></iframe>
-                    <iframe id="highlight" src="https://www.youtube.com/embed/DbbMFG-w8QM" title="YouTube video player"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen></iframe>
-                </div>
-            </div>
-        </div>
     </section>
 
     <!-- Footer -->
