@@ -72,7 +72,15 @@
 /* Section */
 .body-section {
     padding-top: 56px;
-    background-color: #fcf4f4;
+    background-color: #fefefe;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.page-header {
+    font-family: 'New Tegomin', serif;
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 #hero-image {
@@ -85,6 +93,8 @@ img {
     border-style: solid;
 }
 
+/* Embedded Youtube vids */
+
 #why-dnd {
     width:20%;
     height:20%;
@@ -93,6 +103,14 @@ img {
 #highlight {
     width:20%;
     height:20%;
+}
+
+/* Embedded Google map */
+
+#google-map {
+    width="600";
+    height="450";
+    style="border:0;"
 }
 
 /* Footer */
