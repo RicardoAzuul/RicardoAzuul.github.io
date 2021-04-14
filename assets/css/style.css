@@ -111,7 +111,7 @@ img {
 
 /* Embedded Google map */
 
-.google-map-div {
+.google-map-div, .directions-div {
     padding-bottom: 40px;
 }
 
@@ -188,12 +188,26 @@ footer h5 {
 }
 
 /* Media queries */
+@media screen and (min-width: 576px) and (max-width: 768px) {
+    .directions-div {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+}
+
 @media(max-width: 768px) {
     #footer {
         padding: 0px;
         padding-left: 20px;
         padding-bottom: 20px;        
     }
-
 }
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    .directions-div {
+        padding-left: 210px;
+        padding-right: 210px;
+    }
+}
+
 
