@@ -108,9 +108,9 @@ img {
 /* Embedded Google map */
 
 #google-map {
-    width="600";
-    height="450";
-    style="border:0;"
+    border-color: #542c23;
+    border-width: 1px;
+    border-style: solid;
 }
 
 /* Footer */
