@@ -111,6 +111,10 @@ img {
 
 /* Embedded Google map */
 
+.google-map-div {
+    padding-bottom: 20px;
+}
+
 #google-map {
     border-color: #542c23;
     border-width: 1px;
