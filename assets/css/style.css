@@ -123,6 +123,10 @@ img {
     height: 450px;
 }
 
+#public-transport-h3 {
+    padding-top: 20px;
+}
+
 /* Footer */
 
 #footer {
