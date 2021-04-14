@@ -115,6 +115,8 @@ img {
     border-color: #542c23;
     border-width: 1px;
     border-style: solid;
+    width: 600px;
+    height: 450px;
 }
 
 /* Footer */
