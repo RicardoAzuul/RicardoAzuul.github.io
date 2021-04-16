@@ -78,6 +78,7 @@
     padding-top: 56px;
     background-color: #fefefe;
     font-family: 'Montserrat', sans-serif;
+    min-height: 50em;
 }
 
 .page-header {
