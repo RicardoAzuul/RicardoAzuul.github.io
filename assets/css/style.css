@@ -103,6 +103,10 @@ img {
     padding-top: 40px;
 }
 
+.tab-pane {
+    padding-bottom: 40px;
+}
+
 #why-dnd {
     width:20%;
     height:20%;
