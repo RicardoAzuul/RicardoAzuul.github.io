@@ -78,7 +78,7 @@
     padding-top: 56px;
     background-color: #fefefe;
     font-family: 'Montserrat', sans-serif;
-    min-height: 50em;
+    min-height: 48em;
 }
 
 .page-header {
@@ -102,6 +102,14 @@ img {
 
 #nav-tab {
     padding-top: 40px;
+} 
+
+.nav-tabs a.nav-link {
+    color: black;
+}
+
+#nav-players-header {
+    text-decoration: none;
 }
 
 .tab-pane {
