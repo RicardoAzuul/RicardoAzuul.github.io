@@ -108,7 +108,7 @@ img {
     color: black;
 }
 
-#nav-players-header {
+#nav-players, #nav-gamemasters, #nav-newbies { 
     text-decoration: none;
 }
 
