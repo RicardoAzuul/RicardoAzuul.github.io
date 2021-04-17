@@ -150,8 +150,13 @@ img {
     padding-top: 40px;
 }
 
-.about-cafe, .about-richard, .about-liz {
+.about-cafe, .about-cafe-image, .about-richard, .about-richard-image, .about-liz, .about-liz-image {
     padding-bottom: 40px;
+}
+
+.about-cafe h3, .about-richard h3, .about-liz h3 {
+    font-family: 'New Tegomin', serif;
+    padding-bottom: 20px;
 }
 
 /* Footer */
