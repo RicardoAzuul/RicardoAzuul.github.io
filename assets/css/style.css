@@ -130,6 +130,16 @@ img {
     height:20%;
 }
 
+/* menu.html */
+
+.food-list, .food-pics, .drink-list, .drink-pics {
+    padding-bottom: 40px;
+}
+
+.food-list ul, .drink-list ul {
+    list-style: none;
+}
+
 /* directions.html  */
 
 .google-map-div, .directions-div {
