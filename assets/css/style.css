@@ -150,6 +150,10 @@ img {
     padding-top: 40px;
 }
 
+.about-cafe-image, .about-richard-image, .about-liz-image {
+    padding-top: 60px;
+}
+
 .about-cafe, .about-cafe-image, .about-richard, .about-richard-image, .about-liz, .about-liz-image {
     padding-bottom: 40px;
 }
