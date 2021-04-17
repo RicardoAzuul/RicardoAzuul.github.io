@@ -333,6 +333,8 @@ The following websites were used for inspiration:
 - The owner photos on about.html were obtained from Unsplash: [this one](https://unsplash.com/photos/DItYlc26zVI) and [this one](https://unsplash.com/photos/ZOtEoWm6quo)
 - The photo of three hands holding up drinks was also obtained from [Unsplash]9https://unsplash.com/photos/6VhPY27jdps)
 - The photos used in this site were obtained from ...
+Pizza: https://unsplash.com/photos/NQDNtKKO2fA
+Drinks: https://unsplash.com/photos/_VLLZ-zQAEU
 
 ### Acknowledgements
 
