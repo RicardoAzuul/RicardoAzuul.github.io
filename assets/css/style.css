@@ -74,6 +74,10 @@
   }
 
 /* Section */
+body {
+    margin: 0;
+}
+
 .body-section {
     padding-top: 56px;
     background-color: #fefefe;
@@ -150,10 +154,6 @@ img {
     padding-top: 40px;
 }
 
-.about-cafe-image, .about-richard-image, .about-liz-image {
-    padding-top: 60px;
-}
-
 .about-cafe, .about-cafe-image, .about-richard, .about-richard-image, .about-liz, .about-liz-image {
     padding-bottom: 40px;
 }
@@ -224,6 +224,11 @@ footer h5 {
 }
 
 /* Media queries */
+@media(min-width: 1200px) {
+    .about-cafe-image, .about-richard-image, .about-liz-image {
+        padding-top: 60px;
+    }
+}
 @media screen and (min-width: 576px) and (max-width: 768px) {
     .directions-div {
         padding-left: 80px;
