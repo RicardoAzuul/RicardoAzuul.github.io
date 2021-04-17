@@ -330,6 +330,7 @@ The following websites were used for inspiration:
 
 ### Media
 - The hero image on the home page was obtained from [Unsplash](https://unsplash.com/photos/GXXYkSwndP4)
+- The owner photos on about.html were obtained from Unsplash: [this one](https://unsplash.com/photos/DItYlc26zVI) and [this one](https://unsplash.com/photos/ZOtEoWm6quo)
 - The photos used in this site were obtained from ...
 
 ### Acknowledgements

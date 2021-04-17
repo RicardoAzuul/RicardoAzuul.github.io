@@ -146,6 +146,10 @@ img {
 
 /* about.html */
 
+.top-row-padding {
+    padding-top: 40px;
+}
+
 .about-cafe, .about-richard, .about-liz {
     padding-bottom: 40px;
 }
