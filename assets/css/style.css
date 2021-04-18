@@ -102,6 +102,12 @@ img {
     border-style: solid;
 }
 
+/* index.html */
+
+#tagline {
+    padding-bottom: 20px;
+}
+
 /* visit.html */
 
 #nav-tab {
