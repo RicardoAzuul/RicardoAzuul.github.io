@@ -244,11 +244,14 @@ footer h5 {
 }
 
 /* Media queries */
-@media(min-width: 1200px) {
-    .about-cafe-image, .about-richard-image, .about-liz-image {
-        padding-top: 60px;
+@media(max-width: 576px) {
+    #minis {
+        height: 250px;
+        width: 330px;
+        object-fit: cover;
     }
 }
+
 @media screen and (min-width: 576px) and (max-width: 768px) {
     .directions-div {
         padding-left: 80px;
@@ -271,4 +274,9 @@ footer h5 {
     }
 }
 
+@media(min-width: 1200px) {
+    .about-cafe-image, .about-richard-image, .about-liz-image {
+        padding-top: 60px;
+    }
+}
 
