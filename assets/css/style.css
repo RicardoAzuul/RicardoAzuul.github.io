@@ -140,6 +140,10 @@ img {
     list-style: none;
 }
 
+.margin-bottom {
+    margin-bottom: 20px;
+}
+
 /* directions.html  */
 
 .google-map-div, .directions-div {
