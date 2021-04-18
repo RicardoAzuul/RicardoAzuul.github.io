@@ -335,6 +335,12 @@ The following websites were used for inspiration:
 - The photos used in this site were obtained from ...
 Pizza: https://unsplash.com/photos/NQDNtKKO2fA
 Drinks: https://unsplash.com/photos/_VLLZ-zQAEU
+Toastie: https://unsplash.com/photos/SqYmTDQYMjo
+Burger: https://unsplash.com/photos/9hIJ4ZLMnZA
+Nachos: https://unsplash.com/photos/Y0zbn9lPCEU
+Cocktail: https://unsplash.com/photos/DtKrV2K5vq8
+Drinks: https://unsplash.com/photos/Z40sav8IYqQ
+Wine: https://unsplash.com/photos/hrjYNfzXFuM
 
 ### Acknowledgements
 
