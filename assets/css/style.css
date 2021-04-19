@@ -3,7 +3,7 @@
 /* Clear any browser-specific formatting */
 * {
 	margin: 0;
-	border: 0;
+	border: none;
 	padding: 0;
 }
 
@@ -102,6 +102,10 @@ img {
     border-style: solid;
 }
 
+.margin-bottom {
+    margin-bottom: 20px;
+}
+
 /* index.html */
 
 #tagline {
@@ -144,10 +148,6 @@ img {
 
 .food-list ul, .drink-list ul {
     list-style: none;
-}
-
-.margin-bottom {
-    margin-bottom: 20px;
 }
 
 /* directions.html  */
@@ -264,6 +264,12 @@ footer h5 {
         padding: 0px;
         padding-left: 20px;
         padding-bottom: 20px;        
+    }
+}
+
+@media(min-width: 768px) {
+    .margin-bottom {
+        margin-bottom: 40px;
     }
 }
 
