@@ -118,8 +118,12 @@ img {
 /* visit.html */
 
 #nav-tab {
-    padding-top: 40px;
+    padding-top: 20px;
 } 
+
+.nav-link {
+    padding: 0.5rem 0.5rem;
+}
 
 .nav-tabs a.nav-link {
     color: black;
@@ -129,8 +133,20 @@ img {
     text-decoration: none;
 }
 
+.tab-header {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
 .tab-pane {
     padding-bottom: 40px;
+}
+
+.tab-pane ul {
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 #why-dnd {
