@@ -92,10 +92,6 @@ body {
     padding-bottom: 40px;
 }
 
-#hero-image {
-    max-height: 80vh;
-}
-
 img {
     border-color: #542c23;
     border-width: 1px;
