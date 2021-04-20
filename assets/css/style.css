@@ -149,6 +149,13 @@ img {
     padding-bottom: 40px;
 }
 
+.food-list h3, .drink-list h3 {
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
 .food-list ul, .drink-list ul {
     list-style: none;
 }
