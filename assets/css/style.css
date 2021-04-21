@@ -149,14 +149,9 @@ img {
     padding-right: 15px;
 }
 
-#why-dnd {
-    width:20%;
-    height:20%;
-}
-
-#highlight {
-    width:20%;
-    height:20%;
+#why-dnd, #highlight {
+    width:80%;
+    height:15em;
 }
 
 /* menu.html */
@@ -312,6 +307,9 @@ footer h5 {
     }
     #gm-form-header {
         margin-bottom: 20px;
+    }
+    #btn-agenda {
+        margin-top: 24px;
     }
 }
 
