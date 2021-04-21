@@ -298,6 +298,15 @@ footer h5 {
     .margin-bottom {
         margin-bottom: 40px;
     }
+    #minis-2 {
+        height: 360px;
+        width: 640px;
+        object-fit: cover;
+        margin-top: 25px;
+    }
+    #agenda {
+        margin-bottom: 40px;
+    }
 }
 
 @media screen and (min-width: 992px) and (max-width: 1200px) {
