@@ -271,7 +271,7 @@ footer h5 {
 
 /* Media queries */
 @media(max-width: 576px) {
-    #minis, #minis-2 {
+    #minis, #minis-2, #people {
         height: 250px;
         width: 330px;
         object-fit: cover;

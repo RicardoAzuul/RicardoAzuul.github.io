@@ -342,6 +342,7 @@ Cocktail: https://unsplash.com/photos/DtKrV2K5vq8
 Drinks: https://unsplash.com/photos/Z40sav8IYqQ
 Wine: https://unsplash.com/photos/hrjYNfzXFuM
 Minis 2: https://unsplash.com/photos/Q4Honp3Pyqs
+People: https://unsplash.com/photos/ox7SACCsnRA
 
 ### Acknowledgements
 
