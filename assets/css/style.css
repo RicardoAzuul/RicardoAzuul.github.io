@@ -154,6 +154,16 @@ img {
     height:15em;
 }
 
+#minis-2-in-col {
+    height: 340px;
+    width: 570px;
+    object-fit: cover;
+}
+
+#gunslinger {
+    margin-top: 70px;
+}
+
 /* menu.html */
 
 .food-list, .food-pics, .drink-list, .drink-pics {
@@ -293,11 +303,10 @@ footer h5 {
     .margin-bottom {
         margin-bottom: 40px;
     }
-    #minis-2 {
+    #minis-2, #dice {
         height: 360px;
         width: 640px;
         object-fit: cover;
-        margin-top: 25px;
     }
     #agenda {
         margin-bottom: 40px;
