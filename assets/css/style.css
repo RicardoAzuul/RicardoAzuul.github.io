@@ -338,4 +338,9 @@ footer h5 {
         width: 330px;
         object-fit: cover;
     }
+    #people {
+        height: 390px;
+        width: 640px;
+        object-fit: cover;
+    }
 }
