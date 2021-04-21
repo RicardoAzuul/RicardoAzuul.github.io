@@ -271,11 +271,12 @@ footer h5 {
 
 /* Media queries */
 @media(max-width: 576px) {
-    #minis {
+    #minis, #minis-2 {
         height: 250px;
         width: 330px;
         object-fit: cover;
     }
+    
 }
 
 @media screen and (min-width: 576px) and (max-width: 768px) {
