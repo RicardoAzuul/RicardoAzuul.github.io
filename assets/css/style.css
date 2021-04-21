@@ -307,6 +307,12 @@ footer h5 {
     #agenda {
         margin-bottom: 40px;
     }
+    #minis-2, #dice {
+        margin-top: 25px;
+    }
+    #gm-form-header {
+        margin-bottom: 20px;
+    }
 }
 
 @media screen and (min-width: 992px) and (max-width: 1200px) {
