@@ -76,6 +76,19 @@
 /* Section */
 body {
     margin: 0;
+} 
+
+.background {
+    /* The image used */
+    background-image: url("/assets/images/home/bar.jpg");
+
+    /* Full height */
+    height: 50%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .body-section {
@@ -103,6 +116,10 @@ img {
 }
 
 /* index.html */
+#hero-image {
+    max-height: 80%;
+    object-fit: cover;
+}
 
 #tagline {
     padding-bottom: 20px;
@@ -293,10 +310,10 @@ footer h5 {
 }
 
 @media(max-width: 768px) {
-    #footer {
-        padding: 0px;
-        padding-left: 20px;
-        padding-bottom: 20px;        
+    #minis {
+        height: 360px;
+        width: 100%;
+        object-fit: cover;
     }
 }
 
@@ -326,9 +343,17 @@ footer h5 {
         padding-left: 210px;
         padding-right: 210px;
     }
+    #minis {
+        height: 360px;
+        width: 80%;
+        object-fit: cover;
+    }
 }
 
 @media(min-width: 1200px) {
+    .margin-xl-top {
+        margin-top: 20px;
+    }
     .about-cafe-image, .about-richard-image, .about-liz-image {
         padding-top: 60px;
     }
@@ -341,5 +366,8 @@ footer h5 {
         height: 390px;
         width: 640px;
         object-fit: cover;
+    }
+    .xl-width {
+        width: 330px;
     }
 }
