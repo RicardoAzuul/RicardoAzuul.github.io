@@ -115,6 +115,7 @@ img {
 .margin-top {
     margin-top: 20px;
 }
+
 /* visit.html */
 
 #nav-tab {
@@ -307,12 +308,10 @@ footer h5 {
         height: 360px;
         width: 640px;
         object-fit: cover;
+        margin-top: 25px;
     }
     #agenda {
         margin-bottom: 40px;
-    }
-    #minis-2, #dice {
-        margin-top: 25px;
     }
     #gm-form-header {
         margin-bottom: 20px;
