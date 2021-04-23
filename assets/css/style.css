@@ -78,6 +78,12 @@ body {
     margin: 0;
 } 
 
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
 .background {
     /* The image used */
     background-image: url("/assets/images/home/bar.jpg");
