@@ -209,8 +209,8 @@ img {
     border-color: #542c23;
     border-width: 1px;
     border-style: solid;
-    width: 600px;
-    height: 450px;
+    width: 100%;
+    height: 20em;
 }
 
 #public-transport-h3 {
@@ -302,13 +302,6 @@ footer h5 {
     
 }
 
-@media screen and (min-width: 576px) and (max-width: 768px) {
-    .directions-div {
-        padding-left: 80px;
-        padding-right: 80px;
-    }
-}
-
 @media(max-width: 768px) {
     #minis {
         height: 360px;
@@ -339,10 +332,6 @@ footer h5 {
 }
 
 @media screen and (min-width: 992px) and (max-width: 1200px) {
-    .directions-div {
-        padding-left: 210px;
-        padding-right: 210px;
-    }
     #minis {
         height: 360px;
         width: 80%;
