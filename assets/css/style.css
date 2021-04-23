@@ -308,6 +308,9 @@ footer h5 {
         width: 100%;
         object-fit: cover;
     }
+    .fa-facebook-f, .fa-twitter {
+        margin-bottom: 30px;
+    }
 }
 
 @media(min-width: 768px) {
@@ -328,6 +331,12 @@ footer h5 {
     }
     #btn-agenda {
         margin-top: 24px;
+    }
+}
+
+@media(max-width: 1200px) {
+    .fa-facebook-f {
+        margin-bottom: 30px;
     }
 }
 
