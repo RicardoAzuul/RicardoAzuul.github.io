@@ -238,6 +238,19 @@ img {
     padding-bottom: 20px;
 }
 
+/* Buttons */
+
+.btn-success, .btn-primary {
+    color: #fefefe;
+    background-color: #5A94B8;
+}
+
+/* TODO: Change hover effect */
+.btn-success:hover {
+    color: #5A94B8;
+    background-color: #fefefe;
+}
+
 /* Footer */
 
 #footer {
