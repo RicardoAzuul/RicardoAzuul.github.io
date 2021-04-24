@@ -36,7 +36,6 @@
 
 .active-link {
     text-decoration: underline;
-    text-underline-offset: 2px;
 }
 
 /* Underline From Left: from Hover.css */
@@ -233,7 +232,6 @@ img {
     text-transform: uppercase;
     padding-bottom: 20px;
     text-decoration: underline;
-    text-underline-offset: 2px;
 }
 
 .food-list ul, .drink-list ul {
