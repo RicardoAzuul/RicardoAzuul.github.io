@@ -258,7 +258,7 @@ Readme.md:
 Code validation:
 [HTML validation](https://validator.w3.org/nu/)
 - index.html: the validator indicated a warning: section lacks heading. Changed section to div. Validated again without issue.
-- visit.html: the validator 7 errors and 1 warning.
+- visit.html: the validator 7 errors and 1 warning. Made changes to the HTML. Validated again without issue.
 
 Navigation Links in the nav bar:
 - If you click on the Roleplay Cafe logo, do you go back to the Home page? And is the Home page marked active?
