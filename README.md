@@ -156,8 +156,8 @@ All pages should have the same navigation bar and footer:
 
 <ins>Directions</ins>
 - a text on how to get get to the Roleplay Cafe.
-- a link that opens a well-known website for planning your public transport.
-- an embedded Google maps indicating the location.
+- a link that opens a well-known website for planning your public transport route.
+- an embedded Google Maps map indicating the location.
 
 <ins>About</ins>
 - a brief history of the Roleplay Cafe and why it was opened.
@@ -254,6 +254,10 @@ In this section, you should mention all of the languages, frameworks, libraries,
 ## Testing
 Readme.md:
 - If you click on the links in the TOC, do you navigate to the section you clicked on?
+
+Code validation:
+[HTML validation](https://validator.w3.org/nu/)
+- index.html: the validator indicated a warning: section lacks heading. Changed section to div.
 
 Navigation Links in the nav bar:
 - If you click on the Roleplay Cafe logo, do you go back to the Home page? And is the Home page marked active?
