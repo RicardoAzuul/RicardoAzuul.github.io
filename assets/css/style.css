@@ -277,6 +277,10 @@ img {
     border-color: #5A94B8;
 }
 
+.btn-success {
+    padding: .5rem 2rem;
+}
+
 /* TODO: Change hover effect */
 .btn-success:hover {
     color: #fefefe;
