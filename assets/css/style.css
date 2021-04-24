@@ -149,6 +149,10 @@ img {
 }
 
 /* index.html */
+#homepage-section {
+    padding-top: 40px;
+}
+
 #hero-image {
     max-height: 80%;
     object-fit: cover;
