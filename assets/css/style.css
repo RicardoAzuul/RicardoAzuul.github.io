@@ -266,7 +266,6 @@ img {
     padding: .5rem 2rem;
 }
 
-/* TODO: Change hover effect */
 .btn-success:hover {
     color: #fefefe;
     background-color: #5A94B8;
@@ -339,8 +338,7 @@ footer h5 {
         height: 250px;
         width: 330px;
         object-fit: cover;
-    }
-    
+    }    
 }
 
 @media(max-width: 768px) {
@@ -349,6 +347,7 @@ footer h5 {
         width: 100%;
         object-fit: cover;
     }
+    /* Add some margin-bottom to push the two social media icons below them further down */
     .fa-facebook-f, .fa-twitter {
         margin-bottom: 30px;
     }
@@ -376,6 +375,7 @@ footer h5 {
 }
 
 @media(max-width: 1200px) {
+    /* At this breakpoint there are 3 icons in a row and 1 below them. Extra margin-bottom pushes that icon further down */
     .fa-facebook-f {
         margin-bottom: 30px;
     }
