@@ -261,6 +261,8 @@ Code validation:
 - visit.html: the validator 7 errors and 1 warning. Made changes to the HTML. Validated again without issue.
 - menu.html: validation without issue.
 - directions.html: the validator indicated a stray end tag div. Validated again without issue.
+[CSS validation](https://jigsaw.w3.org/css-validator/)
+- index.html: the validator found 4 errors and 755 warnings. A lot of warnings for bootstrap: unknown vendor extension.
 
 Navigation Links in the nav bar:
 - If you click on the Roleplay Cafe logo, do you go back to the Home page? And is the Home page marked active?
