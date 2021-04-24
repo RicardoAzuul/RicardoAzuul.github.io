@@ -229,7 +229,7 @@ img {
     padding-bottom: 40px;
 }
 
-.food-list h3, .drink-list h3 {
+.food-list h4, .drink-list h4 {
     text-transform: uppercase;
     padding-bottom: 20px;
     text-decoration: underline;
