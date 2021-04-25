@@ -109,8 +109,8 @@ html {
     height: 25px;
   }
 
-/* Section */
-.body-section {
+/* Main */
+.body-main {
     padding-top: 56px;
     background-color: #fefefe;
     font-family: 'Montserrat', sans-serif;
@@ -144,7 +144,7 @@ img {
     background-size: cover;
 }
 
-#homepage-section {
+#homepage-main {
     padding-top: 40px;
 }
 
