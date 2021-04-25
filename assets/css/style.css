@@ -211,7 +211,7 @@ img {
     padding-bottom: 40px;
 }
 
-.food-list h4, .drink-list h4 {
+.food-list h2, .drink-list h2 {
     text-transform: uppercase;
     padding-bottom: 20px;
     text-decoration: underline;
@@ -235,7 +235,7 @@ img {
     height: 20em;
 }
 
-#public-transport-h4 {
+#public-transport-2 {
     padding-top: 20px;
 }
 
@@ -249,7 +249,7 @@ img {
     padding-bottom: 40px;
 }
 
-.about-cafe h3, .about-richard h3, .about-liz h3 {
+.about-cafe h2, .about-richard h2, .about-liz h2 {
     font-family: 'New Tegomin', serif;
     padding-bottom: 20px;
 }
