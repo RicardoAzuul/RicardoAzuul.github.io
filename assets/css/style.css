@@ -332,6 +332,14 @@ footer h5 {
     display: block;
 }
 
+#newsletter .btn-primary {
+    font-size: 1em;
+}
+
+#newsletter ::placeholder {
+    font-size: 0.8em;
+}
+
 /* Media queries */
 @media(max-width: 576px) {
     #minis, #minis-2, #people {
