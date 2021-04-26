@@ -18,11 +18,12 @@ As such, the site needs to meet the needs of both visitors and owners:
         3. [Structure](#Structure)
         4. [Skeleton](#Skeleton)
         5. [Surface](#Surface)
-2. [Features](#Features)
-3. [Technologies](#Technologies)
-4. [Testing](#Testing)
-5. [Deployment](#Deployment)
-6. [Credits](#Credits)
+1. [Features](#Features)
+1. [Technologies](#Technologies)
+1. [Responsiveness](#Responsiveness)
+1. [Testing](#Testing)
+1. [Deployment](#Deployment)
+1. [Credits](#Credits)
     1. [Content](#Content)
     2. [Media](#Media)
     3. [Acknowledgements](#Acknowledgements)
@@ -253,6 +254,13 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [Am I Responsive?](http://ami.responsivedesign.is/): to generate screenshots of the site at various viewpoints, indicating responsiveness.
 
 ---
+
+## Responsiveness
+- [Home responsive](/assets/readme-assets/home_responsive.png)
+- [Visit.html responsive](/ssets/readme-assets/visit_responsive.png)
+- [Menu.html responsive](/assets/readmi-assets/menu_responsive.png)
+- [Directions.html responsive](/assets/readme-assets/directions_responsive.png)
+
 
 ## Testing
 Readme.md:
