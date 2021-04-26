@@ -258,7 +258,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 ## Responsiveness
 - [Home responsive](/assets/readme-assets/home_responsive.png)
 - [Visit.html responsive](/assets/readme-assets/visit_responsive.png)
-- [Menu.html responsive](/assets/readmi-assets/menu_responsive.png)
+- [Menu.html responsive](/assets/readme-assets/menu_responsive.png)
 - [Directions.html responsive](/assets/readme-assets/directions_responsive.png)
 
 
