@@ -282,11 +282,12 @@ img {
     font-size: 0.8em;
 }
 
-footer h5 {
+.footer-title {
     font-family: 'New Tegomin', serif;
     text-transform: uppercase;
     padding-top: 20px;
     padding-bottom: 10px;
+    font-size: 1.4em;
 }
 
 #footer p {
