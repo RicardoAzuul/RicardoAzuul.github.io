@@ -250,6 +250,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [Placeholder.com](https://placeholder.com/): to add placeholder images that help with the layout of the pages.
 - [WAVE - web accessibility evalution tool](https://wave.webaim.org/): to check the accessibility of the pages.
 - [Accessible Color Generator](https://learnui.design/tools/accessible-color-generator.html): to generate colors that constrast better.
+- [Am I Responsive?](http://ami.responsivedesign.is/): to generate screenshots of the site at various viewpoints, indicating responsiveness.
 
 ---
 
