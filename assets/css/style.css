@@ -192,6 +192,14 @@ img {
 .tab-pane ul {
     padding-left: 15px;
     padding-right: 15px;
+} 
+
+.alert-primary {
+    color: #fefefe;
+    background-color: #5A94B8;
+    border-color: #5A94B8;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 #why-dnd, #highlight {
