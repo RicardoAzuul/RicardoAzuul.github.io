@@ -249,6 +249,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [Hover.css](https://ianlunn.github.io/Hover/#effects): to add hover effect to nav links and buttons.
 - [Placeholder.com](https://placeholder.com/): to add placeholder images that help with the layout of the pages.
 - [WAVE - web accessibility evalution tool](https://wave.webaim.org/): to check the accessibility of the pages.
+- [Accessible Color Generator](https://learnui.design/tools/accessible-color-generator.html): to generate colors that constrast better.
 
 ---
 
