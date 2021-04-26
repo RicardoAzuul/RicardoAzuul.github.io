@@ -265,7 +265,7 @@ img {
 /* Buttons */
 
 .btn-success, .btn-primary {
-    color: #fefefe;
+    color: #262626;
     background-color: #5A94B8;
     border-color: #5A94B8;
 }
@@ -275,7 +275,7 @@ img {
 }
 
 .btn-success:hover {
-    color: #fefefe;
+    color: #262626;
     background-color: #5A94B8;
     border-color: #5A94B8;
 }
