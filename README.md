@@ -202,34 +202,30 @@ In this section, you should go over the different parts of your project, and des
 ### Existing Features
 - Navigation bar: contains links to all the pages and allows users to browse to pages.
 - Footer: contains practical information about the Cafe: opening hours, contact details, social media icons, and a newsletter form.
-- home page: has an enticing background image of a cafe bar, 
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-- Navigation bar, for quick navigation to the site's separate pages
-- Header
-- Footer
-- Form for game masters to inform the cafe about games they want to run
-- A photo gallery to indicate the ambience
-- A page for players, with a call to action: perhaps a weekly tournament?
-- A page for game masters, with a call to action: sign your game up and win
-- A page for newbies, with a call to action: join this weekly newbie friendly game.
+- Home page: has an enticing background image of a cafe bar, a short text about the Cafe, evocative images about roleplaying, food and drinks, buttons that take you to either the upcoming events or the food and drink menu, and short texts about the next upcoming event and food and drinks.
+- Why Visit Us page: has tabbed navigation to allow switching between the section for players, the section for gamemasters and the section for newbies.
+- The Players section: has text about why you should visit the Cafe if you're a player, an evocative image, and a list of upcoming events.
+- The Gamemasters section: has text about why you should visit the Cafe if you're a gamemaster, an evocative image, a list of resources, and a form to submit your game.
+- The Newbies section: has text about why you should visit the Cafe if you're new to roleplaying, an evocative image (only on small screens) and links to two Youtube videos meant to encourage roleplaying.
+- The Menu page: has a food and drinks menu, and images to go with them.
+- The Directions page: has an embedded Google Maps map (only show up on breakpoints md and larger) and texts on how to get to the Cafe by car or public transport.
 
 ---
 
-## Technologies
+### Features Left to Implement
+- A Jumbotron on the main page, to highlight the next upcoming event
+- A photo gallery or carousel, to add more images and thus variation to the pages. This could go on the Menu page
+- Calls to action, such as:
+    - for players a call to action: perhaps a weekly tournament?
+    - for game masters: sign your game up and win
+    - for newbies: join this weekly newbie friendly game.
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+## Technologies
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5): provides the content and structure of the site.
 - [CSS3](https://en.wikipedia.org/wiki/CSS3): provides the formatting, layout and styling of the site.
-- [Visual Studio Code](https://code.visualstudio.com/): a free IDE with enough features to be useful but not so many features that only make you confused.
-- [Live Server](https://ritwickdey.github.io/vscode-live-server/): a Visual Studio Code extension that allows you to host your site on your local machine, for quick debugging, testing and developing.
+- [Visual Studio Code](https://code.visualstudio.com/): a free IDE with enough features to be useful but not so many features as to confuse you.
+- [Live Server](https://ritwickdey.github.io/vscode-live-server/): a Visual Studio Code extension that allows you to run your site on your local machine, for quick debugging, testing and developing.
 - [GitHub](https://github.com): for hosting the git repository and providing the GitHub pages static site hosting functionality.
 - [git](https://git-scm.com/): as one of the most popular source code management tools.
 - [Balsamiq](www.balsamiq.com): for creating wireframes of all the pages.
