@@ -142,14 +142,22 @@ Initially I was going to have separate pages for the information for players, ga
 
 
 #### Skeleton
-How will our information be represented, and how will the user navigate to the information and the features?
 
-Interface design, navigation design and information design
+Website visitors have come to expect certain layouts from websites. As such, I will a navigation bar to the top of every page, that will always remain visible, even when scrolling down. This navigation bar contains links to all the different pages. 
+On the left will be the logo, which when clicked upon will take the user back to the home page.
+
+The active page is indicated with a line under the navigation item. When hovering over navigation items, a blue line will appear under the navigation item.
+
+At the bottom of every page will be the same footer, with the following information: opening hours, contact details, links to the Roleplay Cafe's social media accounts (in this case links to the home pages of said social media sites) and a form to sign up for a newsletter.
+
+Text will also go from top to bottom, with images between pieces of text to break it up and add variation. Only on the menu page will the food and drinks menu appear next to each other, but only xl breakpoints and larger.
+
+On smaller breakpoints the flow of text will be the same, but with less white space on left and right. Images, embedded Youtube videos and the embedded Google Maps map will disappear on smartphone screens, to save space.
 
 #### Surface
 What will the finished product look like? What colors, typography and design elements will we use?
 
-1. For the color palette I wanted something that makes one think of an old bar or cafe, but with a little bit of magic injected. I found concept art of a bar in the Dungeons & Dragons world of Eberron, which had both: lots of dark browns, but also magical colours.
+1. For the color palette I wanted something that makes one think of an old bar or cafe, but with a little bit of magic injected. I found concept art of a bar in the Dungeons & Dragons world of Eberron, which had both: lots of dark browns, but also magical colours. I used [this image](https://www.artstation.com/artwork/nQXmye).
 
 I used EyeDropper to create these palettes:
 
@@ -167,8 +175,10 @@ And for contrast:
 #C7D5ED
 #5A94B8
 
-1. Icons are sourced from Font Awesome, to add to various pages, and to link to various social media channels.
-1. Fonts are sourced from Google Fonts. I decided on New Tegomin for simulating an old type-writer, and Montserrat offset that by being clean and modern.
+I only used a few colours though: #542c23 as the background colour for the nav bar and the footer, and borders around images, and #5A94B8 to color buttons, for the line under hovered over nav items and as the color for the social media icons. For white text and the main background I went for #fefefe as an off-white color.
+
+The icons are sourced from Font Awesome, as icons to link to various social media channels.
+Fonts are sourced from Google Fonts. I decided on New Tegomin: I felt it simulated an old type-writer, and the cozy antique feeling it evoked fits with the concept of the Cafe. The Montserrat offset that by being clean and modern. New Tegomin is used for H1 headers, the logo and for the titles in the footer, while everything else is Montserrat.
 
 <ins>Wireframes</ins>
 
