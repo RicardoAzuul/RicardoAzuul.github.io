@@ -264,7 +264,7 @@ img {
 
 /* Buttons */
 
-.btn-success, .btn-primary, .btn-success:hover, .btn-success:active {
+.btn-success, .btn-primary {
     color: #262626;
     background-color: #5A94B8;
     border-color: #5A94B8;
@@ -274,13 +274,25 @@ img {
     padding: .5rem 2rem;
 }
 
-.btn-success:hover, .btn-success:active {
+.btn-success:hover, .btn-success:active, .btn-primary:active, .btn-success:focus {
     color: #262626;
     background-color: #5A94B8;
     border-color: #5A94B8;
 }
 
+.btn-primary:hover {
+    color: #262626;
+    background-color: #fefefe;
+
+}
+
 .btn-success:not(:disabled):not(.disabled).active, .btn-success:not(:disabled):not(.disabled):active, .show>.btn-success.dropdown-toggle {
+    color: #262626;
+    background-color: #5A94B8;
+    border-color: #5A94B8;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
     color: #262626;
     background-color: #5A94B8;
     border-color: #5A94B8;
