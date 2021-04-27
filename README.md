@@ -213,6 +213,8 @@ In this section, you should go over the different parts of your project, and des
 ---
 
 ### Features Left to Implement
+
+As I was working on the project, I realized that I was too ambitious. The project requirements specify a minimum of 3 pages, but I have 5 pages. This, coupled with the difficulty of finding suitable free stock images to use, meant that I didn't have the time or resources to implement these features:
 - A Jumbotron on the main page, to highlight the next upcoming event
 - A photo gallery or carousel, to add more images and thus variation to the pages. This could go on the Menu page
 - Calls to action, such as:
@@ -243,7 +245,6 @@ In this section, you should go over the different parts of your project, and des
 - [Visit.html responsive](/assets/readme-assets/visit_responsive.png)
 - [Menu.html responsive](/assets/readme-assets/menu_responsive.png)
 - [Directions.html responsive](/assets/readme-assets/directions_responsive.png)
-
 
 ## Testing
 Readme.md:
@@ -327,9 +328,8 @@ The following websites were used for inspiration:
 - https://blastgalaxy.nl/
 - https://mollysarena.nl/
 
-
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+Text content is written by myself.
 
 ### Media
 - The hero image on the home page was obtained from [Unsplash](https://unsplash.com/photos/GXXYkSwndP4)
@@ -353,5 +353,4 @@ https://www.pexels.com/photo/clear-wine-glass-filled-to-the-brim-1557686/
 
 - I received inspiration for this project from my wife, Elizabeth Lane. She knows I'm enthousiastic about roleplaying games, and she offered creating this site as a suggestion for my first Milestone Project for Code Institute's Diploma in Software Development.
 - I also received help and support from my mentor at Code Institute, [Jack Wachira](https://github.com/iamjackwachira)
-- thanks to Ritwick Dey for the Live Server extension to quickly run the site locally for rapid development.
 - thanks to all the people at [Code Institute](https://codeinstitute.net/) for providing the Diploma in Software Development course and giving me the tools and guidance to create this site.
