@@ -175,7 +175,7 @@ And for contrast:
 #C7D5ED
 #5A94B8
 
-I only used a few colours though: #542c23 as the background colour for the nav bar and the footer, and borders around images, and #5A94B8 to color buttons, for the line under hovered over nav items and as the color for the social media icons. For white text and the main background I went for #fefefe as an off-white color.
+In the end, I only used a few colours though: #542c23 as the background colour for the nav bar and the footer, and borders around images, and #5A94B8 to color buttons, for the line under hovered over nav items and as the color for the social media icons. For white text and the main background I went for #fefefe as an off-white color.
 
 The icons are sourced from Font Awesome, as icons to link to various social media channels.
 Fonts are sourced from Google Fonts. I decided on New Tegomin: I felt it simulated an old type-writer, and the cozy antique feeling it evoked fits with the concept of the Cafe. The Montserrat offset that by being clean and modern. New Tegomin is used for H1 headers, the logo and for the titles in the footer, while everything else is Montserrat.
@@ -193,8 +193,6 @@ Fonts are sourced from Google Fonts. I decided on New Tegomin: I felt it simulat
 - [About](/assets/readme-assets/About.png)
 - [About Mobile Version](/assets/readme-assets/About.png)
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
-
 ---
 
 ## Features
@@ -202,6 +200,9 @@ This section is also where you would share links to any wireframes, mockups, dia
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
+- Navigation bar: contains links to all the pages and allows users to browse to pages.
+- Footer: contains practical information about the Cafe: opening hours, contact details, social media icons, and a newsletter form.
+- home page: has an enticing background image of a cafe bar, 
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
 - ...
 
