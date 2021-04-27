@@ -42,21 +42,21 @@ As such, the site needs to meet the needs of both visitors and owners:
 
 ### The 5 Planes of Design
 
-We use Jesse James Garret's 5 planes of UX design to design the site. We start off at the Strategy Plane, as below.
+I've used Jesse James Garret's 5 planes of UX design to design the site. I started off at the Strategy Plane.
 
 #### Strategy
 
 For the owners of the Roleplay Cafe, the site needs to achieve the following:
-- inform visitors to the site what the Roleplay Cafe offers.
+- inform site visitors what the Roleplay Cafe offers.
 - turn visitors to the site into visitors of the cafe, and ideally recurring visitors too.
 
-The value of the site for the owners: amount of visitors to the Cafe increase, website visitors register their games and more games are being offered by the Cafe, building a tribe of like-minded visitors.
+The value of the site for the owners: the number of visitors to the Cafe increases, website visitors register their games and more games are being offered by the Cafe, building a tribe of like-minded visitors.
 
 For the visitors, the site needs to achieve the following:
-- allow them to quickly figure out what the Roleplay Cafe offers
-- find out about roleplaying games they can join
-- submit a game they want to run as game master
-- find out about events
+- allow them to quickly figure out what the Roleplay Cafe offers.
+- find out about roleplaying games they can join.
+- submit a game they want to run as game master.
+- find out about events.
 
 The value of the site for site visitors: quickly learn about a cool new cafe in town and get to meet people with similar interests.
 
@@ -66,36 +66,33 @@ The goals of the website are thus:
 - inform potential customers of what the Roleplay Cafe has on offer.
 - inform returning customers of what the Roleplay Cafe has on offer.
 
-The users we are focusing on:
+The users I am focusing on:
 - players of roleplaying games who are looking for a place to socialize with others like them, try out new roleplaying games, find new groups to play with.
 - gamemasters of roleplaying games, who are looking for a place to host their games and find new players.
 - people who are interested in roleplaying games, but have little to no experience and are looking to learn more.
 
-The tasks that we will help users solve:
-- find the basic details of the Roleplay Cafe: opening times, location, an idea of the menu, social media
+The tasks that I will help users solve:
+- find the basic details of the Roleplay Cafe: opening times, location, an idea of the menu, social media.
 - find events that are hosted at the Roleplay Cafe.
 - for the gamemasters: submit their game idea, so the Roleplay Cafe can add it to the regular games.
 - for the gamemasters: find out the resources the Roleplay Cafe has on offer, and if necessary reserve them.
 - for people curious about roleplaying games: discover what the Roleplay Cafe and roleplaying is about, using photos of the Roleplay Cafe and perhaps some videos about roleplaying games.
 
-Why will users use our solution:
-- it's the easiest way to find out what the Roleplay Cafe is about and what is on offer. Walking in might be confusing, and you would have to find it first.
+Why will users use this solution:
+- it's the easiest way to find out what the Roleplay Cafe is about and what is on offer. Walking in might be confusing, and you would have to find the Roleplay Cafe first.
 
 
 #### Scope
-Which features, based on information from the strategy plane, do you want to include in your design?
-
-Functional specifications and content requirements
 
 The functional specifications of the site:
-- A responsive website, mobile first design - for users on the move or who happen to find themselves near or in the Cafe - with at least the following pages:
-    - a Home page to give a quick overview of the Roleplay Cafe: menu, photos, opening times, location.
-    - a page for players to give an overview of games and events on offer.
-    - a page for gamemasters to give an overview of the resources on offer and a form to submit their game idea.
-    - a page for newbies, that tries to quickly explain what roleplaying and the Roleplay Cafe is about.
-    - a page for the drinks and food menu.
-    - a page with instructions how to get to the Roleplay cafe.
-    - a page with a brief history of the Roleplay Cafe and its owners, the About page.
+- A responsive website, mobile first design - for users on the move or who happen to find themselves near or in the Cafe - with at least the following conent:
+    - a Home section to give a quick overview of the Roleplay Cafe: menu, photos, opening times, location.
+    - a section for players to give an overview of games and events on offer.
+    - a section for gamemasters to give an overview of the resources on offer and a form to submit their game idea.
+    - a section for newbies, that tries to quickly explain what roleplaying and the Roleplay Cafe is about.
+    - a section for the drinks and food menu.
+    - a section with instructions how to get to the Roleplay cafe.
+    - a section with a brief history of the Roleplay Cafe and its owners, the About page.
     - the Home page has a Jumbotron featuring the next event.
     - the players' page has a Jumbotron featuring the next event.
     - the gamemasters'  page has a Jumbotron featuring new resources on offer.
@@ -106,17 +103,14 @@ Content requirements:
 - A list of events.
 - A list of resources for gamemasters. 
 - Inspirational images and texts to entice users to come visit.
-- A short text about roleplaying and the Roleplay Cafe to entice new visitors.
-    
+- A short text about roleplaying and the Roleplay Cafe to entice new visitors.    
 
 #### Structure 
-How is the information structured and how is it logically grouped?
-
-Interaction design and information design
-
 All pages should have the same navigation bar and footer:
-- the navigation bar contains links to all the pages, as well as the home page
-- the footer contains the Roleplay Cafe's address and social links
+- the navigation bar contains links to all the pages, as well as the home page.
+- the footer contains the Roleplay Cafe's address and social links.
+
+Initially I was going to have separate pages for the information for players, gamemasters and newbies, but I've decided to combine those into one page, using tab navigation to switch between the sections.
 
 <ins>The Home Page</ins>
 - a hero image to inspire visitors of the site to visit the Cafe.
@@ -126,30 +120,12 @@ All pages should have the same navigation bar and footer:
 - a short text about the menu, and a link to it.
 - a form to sign up for the newsletter.
 
-~~<ins>The Players' page</ins>~~
-~~- more in-depth information about the Roleplay Cafe for players: what does the Cafe offer for them.~~
-~~- a list of games looking for players, and events, so players can sign up.~~
-~~- more inspiring photos.~~
-
-
-~~<ins>the Gamemasters' page</ins>~~
-~~- more in-depth information about the Roleplay Cafe for gamemasters: what does the Cafe offer for them.~~
-~~- a form to submit their game idea.~~
-~~- a list of resources the Roleplay Cafe has on offer.~~
-~~- more inspiring photos.~~
-
-
-~~<ins>The Newbies' page</ins>~~
-~~- a very quick introduction for newbies about roleplaying.~~
-~~- photos to inspire.~~
-~~- a Jumbotron to entice them to join up with a newbie-friendly game.~~
-
 <ins>Why Visit Us</ins>
 - more in-depth information for players of roleplaying games why they should visit.
+- a list of events.
 - more in-depth information for gamemasters why they should visit.
 - a form for gamemasters to submit their game idea.
 - more in-depth information for newbies why they should visit.
-- a list of events.
 
 <ins>Menu</ins>
 - photos of food and drinks.
