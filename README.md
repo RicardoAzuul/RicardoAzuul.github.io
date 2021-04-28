@@ -303,6 +303,11 @@ For each link (icon):
 1. See if it opens in a new tab and goes to the expected page (the respective social media's home page)
 All tested and verified: the icons open new tabs to Facebook, Twitter, Instagram and Discord.
 
+1. Newsletter signup:
+    1. Signup for the newsletter without filling in an email address. This gives a popup that an email address is required.
+    1. Signup for the newsletter after filling in an incorrect email address. This gives a popup that the email address is incorrect. 
+    1. Signup for the newsletter after filling in a correct email address. This reloads the page: expected behaviour, as there is no server that the data is POST-ed to. 
+
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
 1. Contact form:
