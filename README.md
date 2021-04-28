@@ -87,7 +87,7 @@ Why will users use this solution:
 #### Scope
 
 The functional specifications of the site:
-- A responsive website, mobile first design - for users on the move or who happen to find themselves near or in the Cafe - with at least the following conent:
+- A responsive website, mobile first design - for users on the move or who happen to find themselves near or in the Cafe - with at least the following content:
     - a Home section to give a quick overview of the Roleplay Cafe: menu, photos, opening times, location.
     - a section for players to give an overview of games and events on offer.
     - a section for gamemasters to give an overview of the resources on offer and a form to submit their game idea.
@@ -148,14 +148,14 @@ Initially I was going to have separate pages for the information for players, ga
 
 #### Skeleton
 
-Website visitors have come to expect certain layouts from websites. As such, I will a navigation bar to the top of every page, that will always remain visible, even when scrolling down. This navigation bar contains links to all the different pages. 
+Website visitors have come to expect certain layouts from websites. As such, I will add a navigation bar to the top of every page, that will always remain visible, even when scrolling down. This navigation bar contains links to all the different pages. 
 On the left will be the logo, which when clicked upon will take the user back to the home page.
 
 The active page is indicated with a line under the navigation item. When hovering over navigation items, a blue line will appear under the navigation item.
 
 At the bottom of every page will be the same footer, with the following information: opening hours, contact details, links to the Roleplay Cafe's social media accounts (in this case links to the home pages of said social media sites) and a form to sign up for a newsletter.
 
-Text will also go from top to bottom, with images between pieces of text to break it up and add variation. Only on the menu page will the food and drinks menu appear next to each other, but only xl breakpoints and larger.
+Text will also go from top to bottom, with images between pieces of text to break it up and add variation. Only on the menu page will the food and drinks menu appear next to each other, but only on the larger breakpoints.
 
 On smaller breakpoints the flow of text will be the same, but with less white space on left and right. Images, embedded Youtube videos and the embedded Google Maps map will disappear on smartphone screens, to save space.
 
@@ -257,10 +257,13 @@ As I was working on the project, I realized that I was too ambitious. The projec
 ---
 
 ## Responsiveness
-- [Home responsive](/assets/readme-assets/home_responsive.png)
-- [Visit.html responsive](/assets/readme-assets/visit_responsive.png)
-- [Menu.html responsive](/assets/readme-assets/menu_responsive.png)
-- [Directions.html responsive](/assets/readme-assets/directions_responsive.png)
+
+These screenshots indicate the responsiveness of the pages on various screens.
+
+- [Index.html](/assets/readme-assets/home_responsive.png)
+- [Visit.html](/assets/readme-assets/visit_responsive.png)
+- [Menu.html](/assets/readme-assets/menu_responsive.png)
+- [Directions.html](/assets/readme-assets/directions_responsive.png)
 
 ---
 
@@ -340,37 +343,17 @@ Fork button
 ## Credits
 
 ### Inspiration
-The following websites were used for inspiration:
+I used the following website for inspiration:
 - https://ranked.bar/
-- https://www.vrarcade.nl/nl/locaties/amsterdam-noord
-- https://blastgalaxy.nl/
-- https://mollysarena.nl/
 
 ### Content
-Text content is written by myself.
+All text content is written by myself.
 
 ### Media
-- The hero image on the home page was obtained from [Unsplash](https://unsplash.com/photos/GXXYkSwndP4)
-- The owner photos on about.html were obtained from Unsplash: [this one](https://unsplash.com/photos/DItYlc26zVI) and [this one](https://unsplash.com/photos/ZOtEoWm6quo)
-- The photo of three hands holding up drinks was also obtained from [Unsplash]9https://unsplash.com/photos/6VhPY27jdps)
-- The photos used in this site were obtained from ...
-Pizza: https://unsplash.com/photos/NQDNtKKO2fA
-Drinks: https://unsplash.com/photos/_VLLZ-zQAEU
-Toastie: https://unsplash.com/photos/SqYmTDQYMjo
-Burger: https://unsplash.com/photos/9hIJ4ZLMnZA
-Nachos: https://unsplash.com/photos/Y0zbn9lPCEU
-Cocktail: https://unsplash.com/photos/DtKrV2K5vq8
-Drinks: https://unsplash.com/photos/Z40sav8IYqQ
-Wine: https://unsplash.com/photos/hrjYNfzXFuM
-Minis 2: https://unsplash.com/photos/Q4Honp3Pyqs
-People: https://unsplash.com/photos/ox7SACCsnRA
-Gunslinger: https://unsplash.com/photos/Hwul1bMfvOg
-https://www.pexels.com/photo/clear-wine-glass-filled-to-the-brim-1557686/
-
----
+I sourced almost all images from [Unsplash](www.unsplash.com), except for one which I source from [Pexels](www.pexels.com)
 
 ### Acknowledgements
 
-- I received inspiration for this project from my wife, Elizabeth Lane. She knows I'm enthousiastic about roleplaying games, and she offered creating this site as a suggestion for my first Milestone Project for Code Institute's Diploma in Software Development.
-- I also received help and support from my mentor at Code Institute, [Jack Wachira](https://github.com/iamjackwachira)
-- thanks to all the people at [Code Institute](https://codeinstitute.net/) for providing the Diploma in Software Development course and giving me the tools and guidance to create this site.
+- My wife Elizabeth Lane gave me the idea for this project. She knows I'm enthousiastic about roleplaying games, and she suggested creating this site as a suggestion for my first Milestone Project for Code Institute's Diploma in Software Development.
+- I also received help and support from my mentor at Code Institute, [Jack Wachira](https://github.com/iamjackwachira). Using the tabbed navigation on the visit.html page was his suggestion for instance.
+- I would also like to thank to all the people at [Code Institute](https://codeinstitute.net/) for providing the Diploma in Software Development course and giving me the tools and guidance to create this site.
