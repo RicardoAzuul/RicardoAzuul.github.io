@@ -287,19 +287,18 @@ Navigation Links in the nav bar:
 - If you click on Menu, do you go to the Menu page? And is the Menu page marked active?
 - If you click on Directions, do you go to the Directions page? And is the Directions page marked active?
 - If you click on About, do you go to the About page? And is the About page marked active?
+All tested and approved.
 
 Buttons
 - If you click on Link to Events, are you taken to the Why Visit Us page with the list of events?
 - If you click on Link to Menu, are you taken to the Menu page?
+All tested and approved.
 
 Social Media Links in the footer:
 For each link (icon):
 1. Click on the icon.
 1. See if it opens in a new tab and goes to the expected page (the respective social media's home page)
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+All tested and approved: the icons open new tabs to Facebook, Twitter, Instagram and Discord.
 
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
