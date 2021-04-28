@@ -246,7 +246,7 @@ As I was working on the project, I realized that I was too ambitious. The projec
 - [Live Server](https://ritwickdey.github.io/vscode-live-server/): a Visual Studio Code extension that allows you to run your site on your local machine, for quick debugging, testing and developing.
 - [GitHub](https://github.com): for hosting the git repository and providing the GitHub pages static site hosting functionality.
 - [git](https://git-scm.com/): as one of the most popular source code management tools.
-- [Balsamiq](www.balsamiq.com): for creating wireframes of all the pages.
+- [Balsamiq](https://balsamiq.com): for creating wireframes of all the pages.
 - [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/): for quick debugging and testing of HTML and CSS. 
 - [Hover.css](https://ianlunn.github.io/Hover/#effects): to add hover effect to nav links and buttons.
 - [Placeholder.com](https://placeholder.com/): to add placeholder images that help with the layout of the pages.
@@ -350,7 +350,7 @@ I used the following website for inspiration:
 All text content is written by myself.
 
 ### Media
-I sourced almost all images from [Unsplash](www.unsplash.com), except for one which I source from [Pexels](www.pexels.com)
+I sourced almost all images from [Unsplash](https://unsplash.com), except for one which I source from [Pexels](https://www.pexels.com)
 
 ### Acknowledgements
 
