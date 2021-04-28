@@ -39,6 +39,7 @@ As such, the site needs to meet the needs of both visitors and owners:
 - As a potential customer of the cafe who wants to be a player in a roleplaying game, I want to visit the site to see if there are any games for me to join, so I can decide to go to the cafe.
 - As a potential customer of the cafe who is new to roleplaying games, I want to visit the site to see what the cafe offers to help me learn about this hobby, so I can decide to go to the cafe.
 
+---
 
 ### The 5 Planes of Design
 
@@ -81,6 +82,7 @@ The tasks that I will help users solve:
 Why will users use this solution:
 - it's the easiest way to find out what the Roleplay Cafe is about and what is on offer. Walking in might be confusing, and you would have to find the Roleplay Cafe first.
 
+---
 
 #### Scope
 
@@ -104,6 +106,8 @@ Content requirements:
 - A list of resources for gamemasters. 
 - Inspirational images and texts to entice users to come visit.
 - A short text about roleplaying and the Roleplay Cafe to entice new visitors.    
+
+---
 
 #### Structure 
 All pages should have the same navigation bar and footer:
@@ -140,6 +144,7 @@ Initially I was going to have separate pages for the information for players, ga
 - a brief history of the Roleplay Cafe and why it was opened.
 - a brief history of the owners.
 
+---
 
 #### Skeleton
 
@@ -154,10 +159,11 @@ Text will also go from top to bottom, with images between pieces of text to brea
 
 On smaller breakpoints the flow of text will be the same, but with less white space on left and right. Images, embedded Youtube videos and the embedded Google Maps map will disappear on smartphone screens, to save space.
 
-#### Surface
-What will the finished product look like? What colors, typography and design elements will we use?
+---
 
-1. For the color palette I wanted something that makes one think of an old bar or cafe, but with a little bit of magic injected. I found concept art of a bar in the Dungeons & Dragons world of Eberron, which had both: lots of dark browns, but also magical colours. I used [this image](https://www.artstation.com/artwork/nQXmye).
+#### Surface
+
+For the color palette I wanted something that makes one think of an old bar or cafe, but with a little bit of magic injected. I found concept art of a bar in the Dungeons & Dragons world of Eberron, which had both: lots of dark browns, but also magical colours. I used [this image](https://www.artstation.com/artwork/nQXmye).
 
 I used EyeDropper to create these palettes:
 
@@ -230,6 +236,8 @@ As I was working on the project, I realized that I was too ambitious. The projec
     - for game masters: sign your game up and win
     - for newbies: join this weekly newbie friendly game.
 
+---
+
 ## Technologies
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5): provides the content and structure of the site.
@@ -253,6 +261,8 @@ As I was working on the project, I realized that I was too ambitious. The projec
 - [Visit.html responsive](/assets/readme-assets/visit_responsive.png)
 - [Menu.html responsive](/assets/readme-assets/menu_responsive.png)
 - [Directions.html responsive](/assets/readme-assets/directions_responsive.png)
+
+---
 
 ## Testing
 Readme.md:
@@ -356,6 +366,8 @@ Minis 2: https://unsplash.com/photos/Q4Honp3Pyqs
 People: https://unsplash.com/photos/ox7SACCsnRA
 Gunslinger: https://unsplash.com/photos/Hwul1bMfvOg
 https://www.pexels.com/photo/clear-wine-glass-filled-to-the-brim-1557686/
+
+---
 
 ### Acknowledgements
 
