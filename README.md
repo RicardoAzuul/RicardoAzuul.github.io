@@ -207,8 +207,6 @@ Fonts are sourced from Google Fonts. I decided on New Tegomin: I felt it simulat
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
 ### Existing Features
 - Navigation bar: contains links to all the pages and allows users to browse to pages.
 - Footer: contains practical information about the Cafe: opening hours, contact details, social media icons, and a newsletter form.
