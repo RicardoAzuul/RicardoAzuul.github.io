@@ -287,18 +287,21 @@ Navigation Links in the nav bar:
 - If you click on Menu, do you go to the Menu page? And is the Menu page marked active?
 - If you click on Directions, do you go to the Directions page? And is the Directions page marked active?
 - If you click on About, do you go to the About page? And is the About page marked active?
-All tested and approved.
+All tested and verified.
 
 Buttons
 - If you click on Link to Events, are you taken to the Why Visit Us page with the list of events?
 - If you click on Link to Menu, are you taken to the Menu page?
-All tested and approved.
+All tested and verified.
+
+If you click on the phone number in the footer, does it open a phone application? Tested and verified.
+If you click on the email address in the footer, does it open an email application? Tested and verified.
 
 Social Media Links in the footer:
 For each link (icon):
 1. Click on the icon.
 1. See if it opens in a new tab and goes to the expected page (the respective social media's home page)
-All tested and approved: the icons open new tabs to Facebook, Twitter, Instagram and Discord.
+All tested and verified: the icons open new tabs to Facebook, Twitter, Instagram and Discord.
 
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
