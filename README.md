@@ -19,6 +19,8 @@ As such, the site needs to meet the needs of both visitors and owners:
         4. [Skeleton Plane](#skeleton-plane)
         5. [Surface Plane](#surface-plane)
 1. [Features](#Features)
+    1. [Existing Features](#existing-features)
+    1. [Features Left To Implement](#features-left-to-implement)
 1. [Technologies Used](#technologies-used)
 1. [Responsiveness of Pages](#responsiveness-of-pages)
 1. [Testing](#Testing)
