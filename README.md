@@ -329,8 +329,7 @@ For each link (icon):
 
 <ins>The YouTube videos in the Gamemasters tab on the "Why Visit Us?" page:</ins>
 - :heavy_check_mark: When you click the Youtube start button, the video starts playing.
-
-
+<br/>
 
 <ins>The "Directions" page</ins>
 - :heavy_check_mark: When you click on the link to the GVB website, the website opens in a new tab.
