@@ -271,8 +271,8 @@ These screenshots indicate the responsiveness of the pages on various screens.
 
 ## Testing
 Test for Readme.md:
-:heavy_check_mark:
-- If you click on the links in the TOC, do you navigate to the section you clicked on?
+
+:heavy_check_mark: When you click on the links in the TOC, you navigate to the section you clicked on.
 
 
 Code validation:
