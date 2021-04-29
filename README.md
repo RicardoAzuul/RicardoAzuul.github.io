@@ -173,9 +173,9 @@ I used EyeDropper to determine the hex values of colours. I used #542c23 as the 
 
 [#542c23](/assets/readme-assets/542c23.png)
 
-[#5A94B8](/assets/readme-assets/#5a94b8.png)
+[#5A94B8](/assets/readme-assets/5a94b8.png)
 
-[#fefefe](/assets/readme-assets/#fefefe.png)
+[#fefefe](/assets/readme-assets/fefefe.png)
 
 The icons are sourced from Font Awesome, as icons to link to various social media channels.
 
