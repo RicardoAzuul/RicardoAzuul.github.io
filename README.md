@@ -8,6 +8,8 @@ As such, the site needs to meet the needs of both visitors and owners:
 - returning visitors need to quickly find relevant information, for instance about events.
 - the owners want to convert new visitors into recurring visitors and have recurring visitors return to the cafe.
 
+To visit the site, click [here](https://ricardoazuul.github.io/)
+
 ---
 
 ## Table of Contents
@@ -344,11 +346,10 @@ The "Directions" page
 ## Deployment
 
 This site is deployed to Github Pages. If you want to deploy it yourself:
-1. On GitHub, navigate to the RicardoAzuul/RicardoAzuul.github.io repository.
+1. On GitHub, navigate to the [RicardoAzuul/RicardoAzuul.github.io repository](https://github.com/RicardoAzuul/RicardoAzuul.github.io)
 2. In the top-right corner of the page, click Fork.
-Fork button
 3. GitHub will fork the repository with the same name under your GitHub profile.
-4. Rename the repository on your own Github profile, with a specific name: [YourGitHubUsername.github.io].
+4. Rename the repository on your own Github profile, with a specific name: %YourGitHubUserName%.github.io.
 5. Go to the Settings of this repository.
 6. Scroll all the way down, to right above the Danger Zone.
 7. Here you can set the repository up to serve as the source for your GitHub Pages. In order to do so, choose a theme.
