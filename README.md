@@ -13,14 +13,14 @@ As such, the site needs to meet the needs of both visitors and owners:
 ## Table of Contents
 1. [UX](#UX)
     1. [The 5 Planes of Design](#the-5-planes-of-design)
-        1. [Strategy](#Strategy)
-        2. [Scope](#Scope)
-        3. [Structure](#Structure)
-        4. [Skeleton](#Skeleton)
-        5. [Surface](#Surface)
+        1. [Strategy Plane](#strategy-plane)
+        2. [Scope Plane](#scope-plane)
+        3. [Structure Plane](#structure-plane)
+        4. [Skeleton Plane](#skeleton-plane)
+        5. [Surface Plane](#surface-plane)
 1. [Features](#Features)
-1. [Technologies](#Technologies)
-1. [Responsiveness](#Responsiveness)
+1. [Technologies Used](#Technologies)
+1. [Responsiveness of Pages](#Responsiveness)
 1. [Testing](#Testing)
 1. [Deployment](#Deployment)
 1. [Credits](#Credits)
@@ -84,7 +84,7 @@ Why will users use this solution:
 
 ---
 
-#### Scope
+#### Scope Plane
 
 The functional specifications of the site:
 - A responsive website, mobile first design - for users on the move or who happen to find themselves near or in the Cafe - with at least the following content:
@@ -109,7 +109,7 @@ Content requirements:
 
 ---
 
-#### Structure 
+#### Structure Plane
 All pages should have the same navigation bar and footer:
 - the navigation bar contains links to all the pages, as well as the home page.
 - the footer contains the Roleplay Cafe's address and social links.
@@ -146,7 +146,7 @@ Initially I was going to have separate pages for the information for players, ga
 
 ---
 
-#### Skeleton
+#### Skeleton Plane
 
 Website visitors have come to expect certain layouts from websites. As such, I will add a navigation bar to the top of every page, that will always remain visible, even when scrolling down. This navigation bar contains links to all the different pages. 
 On the left will be the logo, which when clicked upon will take the user back to the home page.
@@ -161,7 +161,7 @@ On smaller breakpoints the flow of text will be the same, but with less white sp
 
 ---
 
-#### Surface
+#### Surface Plane
 
 For the color palette I wanted something that makes one think of an old bar or cafe, but with a little bit of magic injected. I found concept art of a bar in the Dungeons & Dragons world of Eberron, which had both: lots of dark browns, but also magical colours. I used [this image](https://www.artstation.com/artwork/nQXmye).
 
@@ -238,7 +238,7 @@ As I was working on the project, I realized that I was too ambitious. The projec
 
 ---
 
-## Technologies
+## Technologies Used
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5): provides the content and structure of the site.
 - [CSS3](https://en.wikipedia.org/wiki/CSS3): provides the formatting, layout and styling of the site.
@@ -256,7 +256,7 @@ As I was working on the project, I realized that I was too ambitious. The projec
 
 ---
 
-## Responsiveness
+## Responsiveness of Pages
 
 These screenshots indicate the responsiveness of the pages on various screens.
 
