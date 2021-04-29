@@ -172,7 +172,7 @@ For the color palette I wanted something that makes one think of an old bar or c
 I used EyeDropper to determine the hex values of colours. I used #542c23 as the background colour for the nav bar and the footer, and borders around images, and #5A94B8 to color buttons, for the line under hovered over nav items and as the color for the social media icons. For white text and the main background I went for #fefefe as an off-white color.
 
 #542c23
-<img src="assets/readme-assets/#542c23.png" width="430">
+<img src="/assets/readme-assets/#542c23.png" width="430">
 
 #5A94B8
 
