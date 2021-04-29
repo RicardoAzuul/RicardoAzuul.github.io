@@ -371,14 +371,13 @@ Click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/
 ## Credits
 
 ### Inspiration
-I used the following website for inspiration:
-- https://ranked.bar/
+I used the following website for inspiration: https://ranked.bar/
 
 ### Content
 All text content is written by myself.
 
 ### Media
-I sourced almost all images from [Unsplash](https://unsplash.com), except for one which I source from [Pexels](https://www.pexels.com)
+I sourced almost all images from [Unsplash](https://unsplash.com), except for one which I sourced from [Pexels](https://www.pexels.com).
 
 ### Acknowledgements
 
