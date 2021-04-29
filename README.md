@@ -171,15 +171,14 @@ For the color palette I wanted something that makes one think of an old bar or c
 
 I used EyeDropper to determine the hex values of colours. I used #542c23 as the background colour for the nav bar and the footer, and borders around images, and #5A94B8 to color buttons, for the line under hovered over nav items and as the color for the social media icons. For white text and the main background I went for #fefefe as an off-white color.
 
-#542c23
-<img src="/assets/readme-assets/#542c23.png" width="430">
+[#542c23](/assets/readme-assets/#542c23.png)
 
-#5A94B8
+[#5A94B8](/assets/readme-assets/#5a94b8.png)
 
-#fefefe
-
+[#fefefe](/assets/readme-assets/#fefefe.png)
 
 The icons are sourced from Font Awesome, as icons to link to various social media channels.
+
 Fonts are sourced from Google Fonts. I decided on New Tegomin: I felt it simulated an old type-writer, and the cozy antique feeling it evoked fits with the concept of the Cafe. The Montserrat offset that by being clean and modern. New Tegomin is used for H1 headers, the logo and for the titles in the footer, while everything else is Montserrat.
 
 <ins>Wireframes</ins>
