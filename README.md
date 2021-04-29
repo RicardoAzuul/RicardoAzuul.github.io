@@ -270,8 +270,10 @@ These screenshots indicate the responsiveness of the pages on various screens.
 ---
 
 ## Testing
-Readme.md:
+Test for Readme.md:
+:heavy_check_mark:
 - If you click on the links in the TOC, do you navigate to the section you clicked on?
+
 
 Code validation:
 [HTML validation](https://validator.w3.org/nu/)
