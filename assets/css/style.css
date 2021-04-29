@@ -222,6 +222,9 @@ img {
 .food-list h2, .drink-list h2 {
     text-transform: uppercase;
     padding-bottom: 20px;
+}
+
+.food-list h2 span, .drink-list h2 span {
     text-decoration: underline;
 }
 
