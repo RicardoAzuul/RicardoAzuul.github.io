@@ -277,21 +277,21 @@ Test for Readme.md:
 
 Code validation:
 [HTML validation](https://validator.w3.org/nu/)
-- index.html: the validator indicated a warning: section lacks heading. Changed section to div. Validated again without issue.
-- visit.html: the validator 7 errors and 1 warning. Made changes to the HTML. Validated again without issue.
-- menu.html: validation without issue.
-- directions.html: the validator indicated a stray end tag div. Validated again without issue.
+:heavy_check_mark: index.html: the validator indicated a warning: section lacks heading. Changed section to div. Validated again without issue.
+:heavy_check_mark: visit.html: the validator 7 errors and 1 warning. Made changes to the HTML. Validated again without issue.
+:heavy_check_mark: menu.html: validation without issue.
+:heavy_check_mark:  directions.html: the validator indicated a stray end tag div. Validated again without issue.
+
 [CSS validation](https://jigsaw.w3.org/css-validator/)
-- index.html: the validator found 4 errors and 755 warnings. A lot of warnings for Bootstrap: unknown vendor extension.
+The validator found 4 errors and 755 warnings. A lot of warnings for Bootstrap: unknown vendor extension.
 
 Navigation Links in the nav bar:
-- If you click on the Roleplay Cafe logo, do you go back to the Home page? And is the Home page marked active?
-- If you click on Home, do you go back to the Home page? And is the Home page marked active?
-- If you click on Why Visit Us, do you go to the Why Visit Us page? And is the Why Visit Us page marked active?
-- If you click on Menu, do you go to the Menu page? And is the Menu page marked active?
-- If you click on Directions, do you go to the Directions page? And is the Directions page marked active?
-- If you click on About, do you go to the About page? And is the About page marked active?
-All tested and verified.
+:heavy_check_mark: When you click on the Roleplay Cafe logo, you go back to the Home page and the Home page is marked active.
+:heavy_check_mark: When you click on Home, you go back to the Home page and the Home page is marked active.
+:heavy_check_mark: When you click on Why Visit Us, you go to the Why Visit Us page the Why Visit Us page is marked active.
+:heavy_check_mark: When you click on Menu, you go to the Menu page and the Menu page is marked active.
+:heavy_check_mark: When you click on Directions, you go to the Directions page the Directions page is marked active.
+:heavy_check_mark: When you click on About, you go to the About page and the About page is marked active.
 
 Buttons
 - If you click on Link to Events, are you taken to the Why Visit Us page with the list of events?
