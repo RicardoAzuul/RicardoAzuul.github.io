@@ -8,12 +8,12 @@ As such, the site needs to meet the needs of both visitors and owners:
 - returning visitors need to quickly find relevant information, for instance about events.
 - the owners want to convert new visitors into recurring visitors and have recurring visitors return to the cafe.
 
-To visit the site, click [here](https://ricardoazuul.github.io/)
+To visit the site, click [https://ricardoazuul.github.io](https://ricardoazuul.github.io/)
 
 ---
 
 ## Table of Contents
-1. [UX](#UX)
+1. [UI and UX](#ui-and-ux)
     1. [The 5 Planes of Design](#the-5-planes-of-design)
         1. [Strategy Plane](#strategy-plane)
         2. [Scope Plane](#scope-plane)
@@ -34,7 +34,7 @@ To visit the site, click [here](https://ricardoazuul.github.io/)
 
 ---
 
-## UX
+## UI and UX
  
  User stories:
 - As a potential customer of the cafe, I want to visit the site and quickly determine if the cafe is suitable for me, so I can decide to visit. I will look at location, opening times and the menu. Some photos to give a sense of the ambience would be nice too.
