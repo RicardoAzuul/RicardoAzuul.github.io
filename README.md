@@ -328,8 +328,7 @@ For each link (icon):
 - :heavy_check_mark: Submitting the filled in form should reload the page, as the submit button has not been linked up to anything.
 
 <ins>The YouTube videos in the Gamemasters tab on the "Why Visit Us?" page:</ins>
-- :heavy_check_mark: When you click the Youtube start button, the video starts playing.
-/
+- :heavy_check_mark: When you click the Youtube start button, the video starts playing. /
 
 <ins>The "Directions" page</ins>
 - :heavy_check_mark: When you click on the link to the GVB website, the website opens in a new tab.
