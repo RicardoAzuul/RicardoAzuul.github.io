@@ -169,23 +169,15 @@ On smaller breakpoints the flow of text will be the same, but with less white sp
 
 For the color palette I wanted something that makes one think of an old bar or cafe, but with a little bit of magic injected. I found concept art of a bar in the Dungeons & Dragons world of Eberron, which had both: lots of dark browns, but also magical colours. I used [this image](https://www.artstation.com/artwork/nQXmye).
 
-I used EyeDropper to create these palettes:
+I used EyeDropper to determine the hex values of colours. I used #542c23 as the background colour for the nav bar and the footer, and borders around images, and #5A94B8 to color buttons, for the line under hovered over nav items and as the color for the social media icons. For white text and the main background I went for #fefefe as an off-white color.
 
-#542C23
-#6B382D
-#EB7B63
-#F78268
-#D16E58
+#542c23
+(assets/readme-assets/#542c23.png)
 
-And for contrast:
-
-#FFFE97
-#858319
-#EBD68A
-#C7D5ED
 #5A94B8
 
-In the end, I only used a few colours though: #542c23 as the background colour for the nav bar and the footer, and borders around images, and #5A94B8 to color buttons, for the line under hovered over nav items and as the color for the social media icons. For white text and the main background I went for #fefefe as an off-white color.
+#fefefe
+
 
 The icons are sourced from Font Awesome, as icons to link to various social media channels.
 Fonts are sourced from Google Fonts. I decided on New Tegomin: I felt it simulated an old type-writer, and the cozy antique feeling it evoked fits with the concept of the Cafe. The Montserrat offset that by being clean and modern. New Tegomin is used for H1 headers, the logo and for the titles in the footer, while everything else is Montserrat.
@@ -257,6 +249,7 @@ As I was working on the project, I realized that I was too ambitious. The projec
 - [WAVE - web accessibility evalution tool](https://wave.webaim.org/): to check the accessibility of the pages.
 - [Accessible Color Generator](https://learnui.design/tools/accessible-color-generator.html): to generate colors that contrast better.
 - [Am I Responsive?](http://ami.responsivedesign.is/): to generate screenshots of the site at various viewpoints, indicating responsiveness.
+- [EyeDropper](https://eyedropper.org/): to pick colours from an image.
 
 ---
 
