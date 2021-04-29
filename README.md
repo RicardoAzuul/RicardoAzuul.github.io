@@ -8,7 +8,7 @@ As such, the site needs to meet the needs of both visitors and owners:
 - returning visitors need to quickly find relevant information, for instance about events.
 - the owners want to convert new visitors into recurring visitors and have recurring visitors return to the cafe.
 
-To visit the site, click [https://ricardoazuul.github.io](https://ricardoazuul.github.io/)
+To visit the site, go to [https://ricardoazuul.github.io](https://ricardoazuul.github.io/)
 
 ---
 
@@ -265,8 +265,7 @@ These screenshots indicate the responsiveness of the pages on various screens.
 
 ## Testing
 Test for Readme.md:
-
-:heavy_check_mark: When you click on the links in the TOC, you navigate to the section you clicked on.
+- :heavy_check_mark: When you click on the links in the TOC, you navigate to the section you clicked on.
 
 
 Code validation:
@@ -345,8 +344,10 @@ This site is deployed to Github Pages. If you want to deploy it yourself:
 5. Go to the Settings of this repository.
 6. Scroll all the way down, to right above the Danger Zone.
 7. Here you can set the repository up to serve as the source for your GitHub Pages. In order to do so, choose a theme.
-8. Choosing a theme will apply one of several themes available. This add a _config.yml file to the repository.
+8. Choosing a theme will apply one of several themes available. This adds a _config.yml file to the repository.
 9. After the theme has been applied, simply delete _config.yml from the repository to delete the theme and you'll have a GitHub Pages of Roleplay Cafe just like mine!
+
+Click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) for more information about Github Pages.
 
 ### Run locally
 
