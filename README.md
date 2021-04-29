@@ -264,21 +264,20 @@ These screenshots indicate the responsiveness of the pages on various screens.
 ---
 
 ## Testing
-Test for Readme.md:
+<ins>Test for Readme.md:</ins>
 - :heavy_check_mark: When you click on the links in the TOC, you navigate to the section you clicked on.
 
 
-Code validation:
+<ins>Code validation:</ins>
 1. [HTML validation](https://validator.w3.org/nu/)
 - :heavy_check_mark: index.html: the validator indicated a warning: section lacks heading. Changed section to div. Validated again without issue.
 - :heavy_check_mark: visit.html: the validator 7 errors and 1 warning. Made changes to the HTML. Validated again without issue.
 - :heavy_check_mark: menu.html: validation without issue.
 - :heavy_check_mark:  directions.html: the validator indicated a stray end tag div. Validated again without issue.
-
 1. [CSS validation](https://jigsaw.w3.org/css-validator/)
 - The validator found 4 errors and 755 warnings. A lot of warnings for Bootstrap: unknown vendor extension.
 
-Navigation Links in the nav bar:
+<ins>Navigation Links in the nav bar:</ins>
 - :heavy_check_mark: When you click on the Roleplay Cafe logo, you go back to the Home page and the Home page is marked active.
 - :heavy_check_mark: When you click on Home, you go back to the Home page and the Home page is marked active.
 - :heavy_check_mark: When you click on Why Visit Us, you go to the Why Visit Us page the Why Visit Us page is marked active.
@@ -288,7 +287,7 @@ Navigation Links in the nav bar:
 
 - :heavy_check_mark: Hovering over navigation items in the nav bar should show a blue line under the nav item.
 
-Buttons
+<ins>Buttons</ins>
 - :heavy_check_mark: When you click on the "Check our agenda" button, you go to the Why Visit Us page, to the section with the list of events.
 - :heavy_check_mark: When you click on the "Check our menu" button, you go to the Menu page.
 - :heavy_check_mark: Hovering over the "Check our agenda" button should show a page curl in the bottom right corner.
@@ -300,7 +299,7 @@ Buttons
 - :heavy_check_mark: When you click on the email address in the footer, it opens an email application.
 - :heavy_check_mark: When yhou hover over the email address, a line appears under it.
 
-Social Media Links in the footer:
+<ins>Social Media Links in the footer:</ins>
 For each link (icon):
 1. Click on the icon.
 1. See if it opens in a new tab and goes to the expected page (the respective social media's home page)
@@ -311,25 +310,25 @@ For each link (icon):
 
 - :heavy_check_mark: When you hover over a Social Media icon, the colors invert.
 
-Newsletter signup in the footer:
+<ins>Newsletter signup in the footer:</ins>
 - :heavy_check_mark: Signup for the newsletter without filling in an email address. This gives a popup that an email address is required.
 - :heavy_check_mark: Signup for the newsletter after filling in an incorrect email address. This gives a popup that the email address is incorrect. 
 - :heavy_check_mark: Signup for the newsletter after filling in a correct email address. This reloads the page: expected behaviour, as there is no server that the data is POST-ed to. 
 
-The "Why Visit Us?" page:
+<ins>The "Why Visit Us?" page:</ins>
 - :heavy_check_mark: When you hover over the nav tabs, borders appear around it.
 - :heavy_check_mark: When you click on a nav tab, the correct content is shown.
 
-Submit your game form on the "Why Visit Us?" page:
+<ins>Submit your game form on the "Why Visit Us?" page:</ins>
 - :heavy_check_mark: Submitting the form without filling in the game description should prompt that the game description is required.
 - :heavy_check_mark: Submitting the form without filling in the email address should prompt that an email address is required.
 - :heavy_check_mark: Submitting the form with an incomplete email address should indicate that the email addres is not correct.
 - :heavy_check_mark: Submitting the filled in form should reload the page, as the submit button has not been linked up to anything.
 
-The YouTube videos in the Gamemasters tab on the "Why Visit Us?" page:
+<ins>The YouTube videos in the Gamemasters tab on the "Why Visit Us?" page:</ins>
 - :heavy_check_mark: When you click the Youtube start button, the video starts playing.
 
-The "Directions" page
+<ins>The "Directions" page</ins>
 - :heavy_check_mark: When you click on the link to the GVB website, the website opens in a new tab.
 
 ---
