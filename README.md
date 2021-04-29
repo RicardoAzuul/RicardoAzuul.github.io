@@ -293,28 +293,51 @@ Navigation Links in the nav bar:
 :heavy_check_mark: When you click on Directions, you go to the Directions page the Directions page is marked active.
 :heavy_check_mark: When you click on About, you go to the About page and the About page is marked active.
 
-Buttons
-- If you click on Link to Events, are you taken to the Why Visit Us page with the list of events?
-- If you click on Link to Menu, are you taken to the Menu page?
-All tested and verified.
+:heavy_check_mark: Hovering over navigation items in the nav bar should show a blue line under the nav item.
 
-If you click on the phone number in the footer, does it open a phone application? Tested and verified.
-If you click on the email address in the footer, does it open an email application? Tested and verified.
+Buttons
+:heavy_check_mark: When you click on the "Check our agenda" button, you go to the Why Visit Us page, to the section with the list of events.
+:heavy_check_mark: When you click on the "Check our menu" button, you go to the Menu page.
+:heavy_check_mark: Hovering over the "Check our agenda" button should show a page curl in the bottom right corner.
+:heavy_check_mark: Hovering over the "Check our menu" button should show a page curl in the bottom right corner.
+:heavy_check_mark: Hovering over "Submit" buttons should change the buttons color to #fefefe.
+
+:heavy_check_mark: When you click on the phone number in the footer, it opens a phone application.
+:heavy_check_mark: When you hover over the phone number, a line appears under it.
+:heavy_check_mark: When you click on the email address in the footer, it opens an email application.
+:heavy_check_mark: When yhou hover over the email address, a line appears under it.
 
 Social Media Links in the footer:
 For each link (icon):
 1. Click on the icon.
 1. See if it opens in a new tab and goes to the expected page (the respective social media's home page)
-All tested and verified: the icons open new tabs to Facebook, Twitter, Instagram and Discord.
+:heavy_check_mark: Facebook
+:heavy_check_mark: Twitter
+:heavy_check_mark: Instagram
+:heavy_check_mark: Discord
 
-1. Newsletter signup:
-    1. Signup for the newsletter without filling in an email address. This gives a popup that an email address is required.
-    1. Signup for the newsletter after filling in an incorrect email address. This gives a popup that the email address is incorrect. 
-    1. Signup for the newsletter after filling in a correct email address. This reloads the page: expected behaviour, as there is no server that the data is POST-ed to. 
+:heavy_check_mark: When you hover over a Social Media icon, the colors invert.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+Newsletter signup in the footer:
+:heavy_check_mark: Signup for the newsletter without filling in an email address. This gives a popup that an email address is required.
+:heavy_check_mark: Signup for the newsletter after filling in an incorrect email address. This gives a popup that the email address is incorrect. 
+:heavy_check_mark: Signup for the newsletter after filling in a correct email address. This reloads the page: expected behaviour, as there is no server that the data is POST-ed to. 
 
+The "Why Visit Us?" page:
+:heavy_check_mark: When you hover over the nav tabs, borders appear around it.
+:heavy_check_mark: When you click on a nav tab, the correct content is shown.
 
+Submit your game form on the "Why Visit Us?" page:
+:heavy_check_mark: Submitting the form without filling in the game description should prompt that the game description is required.
+:heavy_check_mark: Submitting the form without filling in the email address should prompt that an email address is required.
+:heavy_check_mark: Submitting the form with an incomplete email address should indicate that the email addres is not correct.
+:heavy_check_mark: Submitting the filled in form should reload the page, as the submit button has not been linked up to anything.
+
+The YouTube videos in the Gamemasters tab on the "Why Visit Us?" page:
+:heavy_check_mark: When you click the Youtube start button, the video starts playing.
+
+The "Directions" page
+:heavy_check_mark: When you click on the link to the GVB website, the website opens in a new tab.
 
 ---
 
