@@ -172,10 +172,13 @@ For the color palette I wanted something that makes one think of an old bar or c
 I used EyeDropper to determine the hex values of colours. I used #542c23 as the background colour for the nav bar and the footer, and borders around images, and #5A94B8 to color buttons, for the line under hovered over nav items and as the color for the social media icons. For white text and the main background I went for #fefefe as an off-white color.
 
 [#542c23](/assets/readme-assets/542c23.png)
+![alt text](image.jpg)
 
 [#5A94B8](/assets/readme-assets/5a94b8.png)
+![alt text](image.jpg)
 
 [#fefefe](/assets/readme-assets/fefefe.png)
+![alt text](image.jpg)
 
 The icons are sourced from Font Awesome, as icons to link to various social media channels.
 
@@ -267,7 +270,6 @@ These screenshots indicate the responsiveness of the pages on various screens.
 <ins>Test for Readme.md:</ins>
 - :heavy_check_mark: When you click on the links in the TOC, you navigate to the section you clicked on.
 
-
 <ins>Code validation:</ins>
 1. [HTML validation](https://validator.w3.org/nu/)
 - :heavy_check_mark: index.html: the validator indicated a warning: section lacks heading. Changed section to div. Validated again without issue.
@@ -276,7 +278,6 @@ These screenshots indicate the responsiveness of the pages on various screens.
 - :heavy_check_mark:  directions.html: the validator indicated a stray end tag div. Validated again without issue.
 2. [CSS validation](https://jigsaw.w3.org/css-validator/)
 - The validator found 4 errors and 755 warnings. A lot of warnings for Bootstrap: unknown vendor extension.
-
 
 <ins>Navigation Links in the nav bar:</ins>
 - :heavy_check_mark: When you click on the Roleplay Cafe logo, you go back to the Home page and the Home page is marked active.
@@ -287,7 +288,6 @@ These screenshots indicate the responsiveness of the pages on various screens.
 - :heavy_check_mark: When you click on About, you go to the About page and the About page is marked active.
 
 - :heavy_check_mark: Hovering over navigation items in the nav bar should show a blue line under the nav item.
-
 
 <ins>Buttons</ins>
 - :heavy_check_mark: When you click on the "Check our agenda" button, you go to the Why Visit Us page, to the section with the list of events.
@@ -301,7 +301,6 @@ These screenshots indicate the responsiveness of the pages on various screens.
 - :heavy_check_mark: When you click on the email address in the footer, it opens an email application.
 - :heavy_check_mark: When yhou hover over the email address, a line appears under it.
 
-
 <ins>Social Media Links in the footer:</ins>
 For each link (icon):
 1. Click on the icon.
@@ -313,17 +312,14 @@ For each link (icon):
 
 - :heavy_check_mark: When you hover over a Social Media icon, the colors invert.
 
-
 <ins>Newsletter signup in the footer:</ins>
 - :heavy_check_mark: Signup for the newsletter without filling in an email address. This gives a popup that an email address is required.
 - :heavy_check_mark: Signup for the newsletter after filling in an incorrect email address. This gives a popup that the email address is incorrect. 
 - :heavy_check_mark: Signup for the newsletter after filling in a correct email address. This reloads the page: expected behaviour, as there is no server that the data is POST-ed to. 
 
-
 <ins>The "Why Visit Us?" page:</ins>
 - :heavy_check_mark: When you hover over the nav tabs, borders appear around it.
 - :heavy_check_mark: When you click on a nav tab, the correct content is shown.
-
 
 <ins>Submit your game form on the "Why Visit Us?" page:</ins>
 - :heavy_check_mark: Submitting the form without filling in the game description should prompt that the game description is required.
@@ -331,10 +327,9 @@ For each link (icon):
 - :heavy_check_mark: Submitting the form with an incomplete email address should indicate that the email addres is not correct.
 - :heavy_check_mark: Submitting the filled in form should reload the page, as the submit button has not been linked up to anything.
 
-
 <ins>The YouTube videos in the Gamemasters tab on the "Why Visit Us?" page:</ins>
 - :heavy_check_mark: When you click the Youtube start button, the video starts playing.
-
+/
 
 <ins>The "Directions" page</ins>
 - :heavy_check_mark: When you click on the link to the GVB website, the website opens in a new tab.
