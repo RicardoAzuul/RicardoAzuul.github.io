@@ -269,6 +269,7 @@ These screenshots indicate the responsiveness of the pages on various screens.
 ## Testing
 <ins>Test for Readme.md:</ins>
 - :heavy_check_mark: When you click on the links in the TOC, you navigate to the section you clicked on.
+<br/>
 
 <ins>Code validation:</ins>
 1. [HTML validation](https://validator.w3.org/nu/)
@@ -278,6 +279,7 @@ These screenshots indicate the responsiveness of the pages on various screens.
 - :heavy_check_mark:  directions.html: the validator indicated a stray end tag div. Validated again without issue.
 2. [CSS validation](https://jigsaw.w3.org/css-validator/)
 - The validator found 4 errors and 755 warnings. A lot of warnings for Bootstrap: unknown vendor extension.
+<br/>
 
 <ins>Navigation Links in the nav bar:</ins>
 - :heavy_check_mark: When you click on the Roleplay Cafe logo, you go back to the Home page and the Home page is marked active.
@@ -288,6 +290,7 @@ These screenshots indicate the responsiveness of the pages on various screens.
 - :heavy_check_mark: When you click on About, you go to the About page and the About page is marked active.
 
 - :heavy_check_mark: Hovering over navigation items in the nav bar should show a blue line under the nav item.
+<br/>
 
 <ins>Buttons</ins>
 - :heavy_check_mark: When you click on the "Check our agenda" button, you go to the Why Visit Us page, to the section with the list of events.
@@ -300,6 +303,7 @@ These screenshots indicate the responsiveness of the pages on various screens.
 - :heavy_check_mark: When you hover over the phone number, a line appears under it.
 - :heavy_check_mark: When you click on the email address in the footer, it opens an email application.
 - :heavy_check_mark: When yhou hover over the email address, a line appears under it.
+<br/>
 
 <ins>Social Media Links in the footer:</ins>
 For each link (icon):
@@ -311,21 +315,25 @@ For each link (icon):
 - :heavy_check_mark: Discord
 
 - :heavy_check_mark: When you hover over a Social Media icon, the colors invert.
+<br/>
 
 <ins>Newsletter signup in the footer:</ins>
 - :heavy_check_mark: Signup for the newsletter without filling in an email address. This gives a popup that an email address is required.
 - :heavy_check_mark: Signup for the newsletter after filling in an incorrect email address. This gives a popup that the email address is incorrect. 
 - :heavy_check_mark: Signup for the newsletter after filling in a correct email address. This reloads the page: expected behaviour, as there is no server that the data is POST-ed to. 
+<br/>
 
 <ins>The "Why Visit Us?" page:</ins>
 - :heavy_check_mark: When you hover over the nav tabs, borders appear around it.
 - :heavy_check_mark: When you click on a nav tab, the correct content is shown.
+<br/>
 
 <ins>Submit your game form on the "Why Visit Us?" page:</ins>
 - :heavy_check_mark: Submitting the form without filling in the game description should prompt that the game description is required.
 - :heavy_check_mark: Submitting the form without filling in the email address should prompt that an email address is required.
 - :heavy_check_mark: Submitting the form with an incomplete email address should indicate that the email addres is not correct.
 - :heavy_check_mark: Submitting the filled in form should reload the page, as the submit button has not been linked up to anything.
+<br/>
 
 <ins>The YouTube videos in the Gamemasters tab on the "Why Visit Us?" page:</ins>
 - :heavy_check_mark: When you click the Youtube start button, the video starts playing.
