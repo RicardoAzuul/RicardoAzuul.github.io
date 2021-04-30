@@ -213,6 +213,12 @@ img {
     object-fit: cover;
 }
 
+#gm-form {
+    border-color: #542c23;
+    border-width: 1px;
+    border-style: solid;
+}
+
 /* CSS rules for menu.html */
 
 .food-list, .food-pics, .drink-list, .drink-pics {

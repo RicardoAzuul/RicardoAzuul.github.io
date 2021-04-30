@@ -30,8 +30,8 @@
                                         page</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active-link hvr-underline-from-left" href="visit.html">Why Visit Us <span
-                                        class="sr-only">Link to Why Visit
+                                <a class="nav-link active-link hvr-underline-from-left" href="visit.html">Why Visit Us
+                                    <span class="sr-only">Link to Why Visit
                                         Us page</span></a>
                             </li>
                             <li class="nav-item">
@@ -100,7 +100,10 @@
                                                     <li>No more worrying about who hosts the game: we provide the space.
                                                     </li>
                                                     <li>No more worrying about food: we provide the food.</li>
-                                                    <li>Looking to learn about a new game? We host many different games.
+                                                    <li>Forgot your dice, or your rulebooks? We have spare sets of dice
+                                                        and rulebooks for many of the more popular roleplaying games.
+                                                    </li>
+                                                    <li>Wanting to learn a new game? We host many different games.
                                                     </li>
                                                 </ul>
                                             </div>
@@ -131,16 +134,18 @@
                                                     very
                                                     simple.
                                                 </p>
-                                                <h4 class="mt-5">Friday <time datetime="19:00">19:00</time> till about <time
-                                                        datetime="23:00">23:00</time> - Dungeons and Dragons 5th
-                                                    Edition: The West Marches</h4>
+                                                <h4 class="mt-5">Friday <time datetime="19:00">19:00</time> till about
+                                                    <time datetime="23:00">23:00</time> - Dungeons and Dragons 5th
+                                                    Edition: The West Marches
+                                                </h4>
                                                 <p>Join this ongoing The West Marches game. This is a sandbox game,
                                                     where players get to decide themselves which adventure to go on.
                                                     They tell the gamemaster what they want to do, and the gamemaster
                                                     prepares their adventure.</p>
-                                                <h4 class="mt-5">Saturday <time datetime="20:00">20:00</time> till about <time
-                                                        datetime="00:00">00:00</time> - Call of Cthulhu: The
-                                                    Haunting</h4>
+                                                <h4 class="mt-5">Saturday <time datetime="20:00">20:00</time> till about
+                                                    <time datetime="00:00">00:00</time> - Call of Cthulhu: The
+                                                    Haunting
+                                                </h4>
                                                 <p>This is an introductory adventure for the Call of Cthulhu roleplaying
                                                     game. You play as investigators in 1920s America. Can you discover
                                                     the mystery behind the haunting of the Corbitt House?
@@ -177,14 +182,9 @@
                                                     </li>
                                                     <li>Need terrain? We have it! Still missing terrain pieces? Request
                                                         them!</li>
-                                                    <li>We also provice sound systems for gamemasters looking to add
-                                                        music
-                                                        or audio
-                                                        effects.</li>
-                                                    <li>We also provide beamers for gamemasters looking to add digital
-                                                        maps
-                                                        to their
-                                                        game.</li>
+                                                    <li>Want to add music or sound effects to your game? We can hook you
+                                                        up!</li>
+                                                    <li>Want to add digital maps to your game? We have beamers!</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -210,14 +210,43 @@
                                                     on a
                                                     waiting list, but we will be in touch!
                                                 </p>
-                                                <form action="https://formdump.codeinstitute.net/" method="post">
+                                                <form id="gm-form" class="mt-5 p-4">
                                                     <div class="form-group">
                                                         <label for="short-description">Short description of
                                                             game:</label>
                                                         <input type="text" class="form-control" name="short-description"
                                                             id="short-description"
-                                                            placeholder="Game system, premise, campaign length?" required>
+                                                            placeholder="Game system, premise, campaign length?"
+                                                            required>
                                                     </div>
+                                                    <div class="form-group">
+                                                        <label for="sound-system-required">Do you need a sound system?</label>
+                                                        <input type="radio" name="sound-system-required" id="sound-system-yes" value="yes">
+                                                        <label for="sound-system-yes">Yes</label>
+                                                        <input type="radio" name="sound-system-required" id="sound-system-no" value="no">
+                                                        <label for="sound-system-no">No</label>
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label for="beamer-required">Do you need a beamer?</label>
+                                                        <input type="radio" name="beamer-required" id="beamer-yes" value="yes">
+                                                        <label for="beamer-yes">Yes</label>
+                                                        <input type="radio" name="beamer-required" id="beamer-no" value="no">
+                                                        <label for="beamer-no">No</label>
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label for="books-required">Do you need extra books?</label>
+                                                        <input type="radio" name="books-required" id="books-yes" value="yes">
+                                                        <label for="books-yes">Yes</label>
+                                                        <input type="radio" name="books-required" id="books-no" value="no">
+                                                        <label for="books-no">No</label>
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label for="dice-required">Do you need extra dice?</label>
+                                                        <input type="radio" name="dice-required" id="dice-yes" value="yes">
+                                                        <label for="dice-yes">Yes</label>
+                                                        <input type="radio" name="dice-required" id="dice-no" value="no">
+                                                        <label for="dice-no">No</label>
+                                                    </div> 
                                                     <div class="form-group">
                                                         <label for="email-gm">Email:</label>
                                                         <input type="email" class="form-control" name="email"
