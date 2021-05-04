@@ -238,8 +238,8 @@ As I was working on the project, I realized that I was too ambitious. The projec
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5): provides the content and structure of the site.
 - [CSS3](https://en.wikipedia.org/wiki/CSS3): provides the formatting, layout and styling of the site.
-- Bootstrap
-- FontAwesome
+- [Bootstrap](https://getbootstrap.com/): provides a popular CSS framework with many custom elements to quickly bootstrap a site.
+- [FontAwesome](https://fontawesome.com/): provides several icons I've used on the site.
 - [Visual Studio Code](https://code.visualstudio.com/): a free IDE with enough features to be useful but not so many features as to confuse you.
 - [Live Server](https://ritwickdey.github.io/vscode-live-server/): a Visual Studio Code extension that allows you to run your site on your local machine, for quick debugging, testing and developing.
 - [GitHub](https://github.com): for hosting the git repository and providing the GitHub pages static site hosting functionality.
@@ -347,6 +347,8 @@ For each link (icon):
 
 <ins>The "Directions" page</ins>
 - :heavy_check_mark: When you click on the link to the GVB website, the website opens in a new tab.
+
+These tests were also done using the Firefox and Microsoft Edge browser, without issue.
 
 ---
 
