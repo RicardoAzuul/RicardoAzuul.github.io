@@ -204,8 +204,6 @@ Fonts are sourced from Google Fonts. I decided on New Tegomin: I felt it simulat
 - [Directions](/assets/readme-assets/directions.png)
 - [Directions tablet](/assets/readme-assets/directions_tablet.png)
 - [Directions Mobile Version](/assets/readme-assets/directions_mobile_view.png)
-- [About](/assets/readme-assets/about.png)
-- [About Mobile Version](/assets/readme-assets/about_mobile_view.png)
 
 ---
 
@@ -219,20 +217,20 @@ Fonts are sourced from Google Fonts. I decided on New Tegomin: I felt it simulat
 - The Players section: has text about why you should visit the Cafe if you're a player, an evocative image, and a list of upcoming events.
 - The Gamemasters section: has text about why you should visit the Cafe if you're a gamemaster, an evocative image, a list of resources, and a form to submit your game.
 - The Newbies section: has text about why you should visit the Cafe if you're new to roleplaying, an evocative image (only on small screens) and links to two Youtube videos meant to encourage roleplaying.
-- The Menu page: has a food and drinks menu, and images to go with them.
+- The Menu page: has a food and drinks menu, and image carousels to go with them.
 - The Directions page: has an embedded Google Maps map (only show up on breakpoints md and larger) and texts on how to get to the Cafe by car or public transport.
 
 ---
 
 ### Features Left to Implement
 
-As I was working on the project, I realized that I was too ambitious. The project requirements specify a minimum of 3 pages, but I have 5 pages. This, coupled with the difficulty of finding suitable free stock images to use, meant that I didn't have the time or resources to implement these features:
+As I was working on the project, I realized that I was too ambitious. The project requirements specify a minimum of 3 pages, but I had 5 pages. This, coupled with the difficulty of finding suitable free stock images to use, meant that I didn't have the time or resources to implement these features:
 - A Jumbotron on the main page, to highlight the next upcoming event
-- A photo gallery or carousel, to add more images and thus variation to the pages. This could go on the Menu page
 - Calls to action, such as:
     - for players a call to action: perhaps a weekly tournament?
     - for game masters: sign your game up and win
     - for newbies: join this weekly newbie friendly game.
+- Due to time constraints I also decided to leave out the About page: it is the least important page, and also the least interesting from a developer's perspective.
 
 ---
 
@@ -287,7 +285,6 @@ These screenshots indicate the responsiveness of the pages on various screens.
 - :heavy_check_mark: When you click on Why Visit Us, you go to the Why Visit Us page the Why Visit Us page is marked active.
 - :heavy_check_mark: When you click on Menu, you go to the Menu page and the Menu page is marked active.
 - :heavy_check_mark: When you click on Directions, you go to the Directions page the Directions page is marked active.
-- :heavy_check_mark: When you click on About, you go to the About page and the About page is marked active.
 
 - :heavy_check_mark: Hovering over navigation items in the nav bar should show a blue line under the nav item.
 <br/>
@@ -329,6 +326,7 @@ For each link (icon):
 <br/>
 
 <ins>Submit your game form on the "Why Visit Us?" page:</ins>
+- 
 - :heavy_check_mark: Submitting the form without filling in the game description should prompt that the game description is required.
 - :heavy_check_mark: Submitting the form without filling in the email address should prompt that an email address is required.
 - :heavy_check_mark: Submitting the form with an incomplete email address should indicate that the email addres is not correct.
