@@ -8,7 +8,7 @@ As such, the site needs to meet the needs of both visitors and owners:
 - returning visitors need to quickly find relevant information, for instance about events.
 - the owners want to convert new visitors into recurring visitors and have recurring visitors return to the cafe.
 
-To visit the site, go to [https://ricardoazuul.github.io](https://ricardoazuul.github.io/)
+To visit the site, open [https://ricardoazuul.github.io](https://ricardoazuul.github.io/)
 
 ---
 
