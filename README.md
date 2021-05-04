@@ -339,6 +339,12 @@ For each link (icon):
 - :heavy_check_mark: When you click the Youtube start button, the video starts playing.
 <br/>
 
+<ins>The "Menu" page:</ins>
+- :heavy_check_mark: When you click on the "previous" icon on the food carousel, it loads the previous picture.
+- :heavy_check_mark: When you click on the "next" icon on the food carousel, it loads the next picture.
+- :heavy_check_mark: When you click on the "previous" icon on the drinks carousel, it loads the previous picture.
+- :heavy_check_mark: When you click on the "next" icon on the drinks carousel, it loads the next picture.
+
 <ins>The "Directions" page</ins>
 - :heavy_check_mark: When you click on the link to the GVB website, the website opens in a new tab.
 
