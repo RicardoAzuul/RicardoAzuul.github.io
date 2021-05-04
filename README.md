@@ -305,6 +305,7 @@ These screenshots indicate the responsiveness of the pages on various screens.
 <br/>
 
 <ins>Social Media Links in the footer:</ins>
+
 For each link (icon):
 1. Click on the icon.
 1. See if it opens in a new tab and goes to the expected page (the respective social media's home page)
