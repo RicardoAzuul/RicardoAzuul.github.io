@@ -238,6 +238,8 @@ As I was working on the project, I realized that I was too ambitious. The projec
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5): provides the content and structure of the site.
 - [CSS3](https://en.wikipedia.org/wiki/CSS3): provides the formatting, layout and styling of the site.
+- Bootstrap
+- FontAwesome
 - [Visual Studio Code](https://code.visualstudio.com/): a free IDE with enough features to be useful but not so many features as to confuse you.
 - [Live Server](https://ritwickdey.github.io/vscode-live-server/): a Visual Studio Code extension that allows you to run your site on your local machine, for quick debugging, testing and developing.
 - [GitHub](https://github.com): for hosting the git repository and providing the GitHub pages static site hosting functionality.
@@ -326,11 +328,10 @@ For each link (icon):
 <br/>
 
 <ins>Submit your game form on the "Why Visit Us?" page:</ins>
-- 
-- :heavy_check_mark: Submitting the form without filling in the game description should prompt that the game description is required.
-- :heavy_check_mark: Submitting the form without filling in the email address should prompt that an email address is required.
-- :heavy_check_mark: Submitting the form with an incomplete email address should indicate that the email addres is not correct.
-- :heavy_check_mark: Submitting the filled in form should reload the page, as the submit button has not been linked up to anything.
+- :heavy_check_mark: When you click on the button to submit your game, a modal opens with the form.
+- :heavy_check_mark: Clicking on the "Close" button should close the modal.
+- :heavy_check_mark: Clicking outside the modal should close the modal.
+- :heavy_check_mark: Submitting the filled in form should do nothing, as the submit button has not been linked up to anything.
 <br/>
 
 <ins>The YouTube videos in the Gamemasters tab on the "Why Visit Us?" page:</ins>
@@ -351,7 +352,7 @@ This site is deployed to Github Pages. If you want to deploy it yourself:
 4. Rename the repository on your own Github profile, with a specific name: %YourGitHubUserName%.github.io.
 5. Go to the Settings of this repository.
 6. Scroll all the way down, to right above the Danger Zone.
-7. Here you can set the repository up to serve as the source for your GitHub Pages. In order to do so, choose a theme.
+7. Here you can setup the repository to serve as the source for your GitHub Pages. In order to do so, choose a theme.
 8. Choosing a theme will apply one of several themes available. This adds a _config.yml file to the repository.
 9. After the theme has been applied, simply delete _config.yml from the repository to delete the theme and you'll have a GitHub Pages of Roleplay Cafe just like mine!
 
@@ -359,7 +360,7 @@ Click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/
 
 ### Run locally
 
-1. If you want to run the project locally, simply clone the repository: git clone https://github.com/RicardoAzuul/RicardoAzuul.github.io.git
+1. If you want to run the project locally, simply clone the repository into the directory of your choice: git clone https://github.com/RicardoAzuul/RicardoAzuul.github.io.git
 2. Using Visual Studio Code, search for the [Live Server](https://ritwickdey.github.io/vscode-live-server/) extension by Ritwick Dey and install it.
 3. Press F1 in Visual Studio Code and in the search bar that pops up look for Live Server and start it.
 4. This will start a browser on your own machine hosting the website locally. 
