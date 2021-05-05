@@ -252,6 +252,7 @@ As I was working on the project, I realized that I was too ambitious. The projec
 - [Accessible Color Generator](https://learnui.design/tools/accessible-color-generator.html): to generate colors that contrast better.
 - [Am I Responsive?](http://ami.responsivedesign.is/): to generate screenshots of the site at various viewpoints, indicating responsiveness.
 - [EyeDropper](https://eyedropper.org/): to pick colours from an image.
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse): an automated tool in Chrome DevTools that audits for performance, accessibility, progressive web apps, SEO and more.
 
 ---
 
