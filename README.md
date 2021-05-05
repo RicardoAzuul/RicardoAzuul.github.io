@@ -279,7 +279,7 @@ These screenshots indicate the responsiveness of the pages on various screens.
 - :heavy_check_mark: menu.html: validation without issue.
 - :heavy_check_mark:  directions.html: the validator indicated a stray end tag div. Validated again without issue.
 2. [CSS validation](https://jigsaw.w3.org/css-validator/)
-- The validator found 4 errors and 755 warnings. A lot of warnings for Bootstrap: unknown vendor extension.
+- The validator found 2 errors and 757 warnings. The 2 errors are from the Bootstrap CSS file however. With regards to the warnings: a lot of these are also from Bootstrap. These are unknown vendor extensions. There are 7 warnings about unknown vendor extensions in my own CSS file: these come from the Hover.CSS effects. And there are also warnings about "same color for background-color and border-color", but I intentionally set the same colors.
 <br/>
 
 <ins>Navigation Links in the nav bar:</ins>
