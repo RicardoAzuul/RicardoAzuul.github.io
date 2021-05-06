@@ -278,7 +278,7 @@ img {
 /* Buttons */
 
 .btn-success, .btn-primary {
-    color: #262626;
+    color: #fefefe;
     background-color: #5A94B8;
     border-color: #5A94B8;
 }
@@ -288,25 +288,25 @@ img {
 }
 
 .btn-success:hover, .btn-success:active, .btn-primary:active, .btn-success:focus {
-    color: #262626;
+    color: #fefefe;
     background-color: #5A94B8;
     border-color: #5A94B8;
 }
 
 .btn-primary:hover {
-    color: #262626;
+    color: #5A94B8;
     background-color: #fefefe;
 
 }
 
 .btn-success:not(:disabled):not(.disabled).active, .btn-success:not(:disabled):not(.disabled):active, .show>.btn-success.dropdown-toggle {
-    color: #262626;
+    color: #fefefe;
     background-color: #5A94B8;
     border-color: #5A94B8;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
-    color: #262626;
+    color: #fefefe;
     background-color: #5A94B8;
     border-color: #5A94B8;
 }
@@ -360,7 +360,7 @@ img {
     border-style: solid;
     border-width: 1px;
     border-color: #fefefe;
-    color: #5A94B8; 
+    color: #fefefe; 
 }
 
 #social a i:hover {
