@@ -374,7 +374,11 @@ Click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/
 
 ### Run locally
 
-1. If you want to run the project locally, simply clone the repository into the directory of your choice: git clone https://github.com/RicardoAzuul/RicardoAzuul.github.io.git
+1. If you want to run the project locally, simply clone the repository into the directory of your choice: 
+<br/>
+```
+git clone https://github.com/RicardoAzuul/RicardoAzuul.github.io.git
+```
 2. Using Visual Studio Code, search for the [Live Server](https://ritwickdey.github.io/vscode-live-server/) extension by Ritwick Dey and install it.
 3. Press F1 in Visual Studio Code and in the search bar that pops up look for Live Server and start it.
 4. This will start a browser on your own machine hosting the website locally. 
