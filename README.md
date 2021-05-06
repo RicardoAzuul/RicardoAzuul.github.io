@@ -14,6 +14,7 @@ To visit the site, open [https://ricardoazuul.github.io](https://ricardoazuul.gi
 
 ## Table of Contents
 1. [UI and UX](#ui-and-ux)
+    1. [User Stories](#user-stories)
     1. [The 5 Planes of Design](#the-5-planes-of-design)
         1. [Strategy Plane](#strategy-plane)
         2. [Scope Plane](#scope-plane)
@@ -36,7 +37,7 @@ To visit the site, open [https://ricardoazuul.github.io](https://ricardoazuul.gi
 
 ## UI and UX
  
- User stories:
+### User stories
 - As a potential customer of the cafe, I want to visit the site and quickly determine if the cafe is suitable for me, so I can decide to visit. I will look at location, opening times and the menu. Some photos to give a sense of the ambience would be nice too.
 - As a recurring customer of the cafe, I want to visit the site to see what events are on and when, so I can decide which events to go to. I want to see when these events are planned, if they recur, and a brief description of these events.
 - As a potential customer of the cafe who wants to be a game master for a roleplaying game, I want to visit the site to see what resources the cafe provides for hosting my game, so I can decide to host my game at the cafe. I want to have an overview of the resources provided - dice, character sheets, a sound system, perhaps a booth? - any possible costs associated with them and when the resources are available.
