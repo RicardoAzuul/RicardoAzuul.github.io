@@ -239,7 +239,7 @@ As I was working on the project, I realized that I was too ambitious. The projec
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5): provides the content and structure of the site.
 - [CSS3](https://en.wikipedia.org/wiki/CSS3): provides the formatting, layout and styling of the site.
-- [Bootstrap](https://getbootstrap.com/): provides a popular CSS framework with many custom elements to quickly bootstrap a site.
+- [Bootstrap](https://getbootstrap.com/): provides a popular CSS framework with many custom elements to quickly bootstrap a site. I've used Bootstrap 4.6.
 - [FontAwesome](https://fontawesome.com/): provides several icons I've used on the site.
 - [Visual Studio Code](https://code.visualstudio.com/): a free IDE with enough features to be useful but not so many features as to confuse you.
 - [Live Server](https://ritwickdey.github.io/vscode-live-server/): a Visual Studio Code extension that allows you to run your site on your local machine, for quick debugging, testing and developing.
@@ -401,3 +401,4 @@ I sourced almost all images from [Unsplash](https://unsplash.com), except for on
 - My wife Elizabeth Lane gave me the idea for this project. She knows I'm enthousiastic about roleplaying games, and she suggested creating this site as a suggestion for my first Milestone Project for Code Institute's Diploma in Software Development.
 - I also received help and support from my mentor at Code Institute, [Jack Wachira](https://github.com/iamjackwachira). Using the tabbed navigation on the visit.html page was his suggestion for instance.
 - I would also like to thank to all the people at [Code Institute](https://codeinstitute.net/) for providing the Diploma in Software Development course and giving me the tools and guidance to create this site.
+- And also thanks to [Bootstrap](https://getbootstrap.com/) for helping with implementing their Bootstrap stylings, and [Stackoverflow](https://stackoverflow.com/) and [MDN](https://developer.mozilla.org/en-US/) for helping with finding solutions to coding problems, like the full background image.
