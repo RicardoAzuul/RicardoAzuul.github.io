@@ -363,7 +363,7 @@ For each link (icon):
 - :heavy_check_mark: Instagram
 - :heavy_check_mark: Discord
 
-- :heavy_check_mark: When you hover over a Social Media icon, the colors invert.
+- :heavy_check_mark: When you hover over a Social Media icon, the background changes colour.
 <br/>
 
 <ins>Newsletter signup in the footer:</ins>
