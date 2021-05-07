@@ -39,10 +39,46 @@ To visit the site, open [https://ricardoazuul.github.io](https://ricardoazuul.gi
  
 ### User stories
 - As a potential customer of the cafe, I want to visit the site and quickly determine if the cafe is suitable for me, so I can decide to visit. I will look at location, opening times and the menu. Some photos to give a sense of the ambience would be nice too.
+
+    - Screenshots related to this user story:
+
+        - [Footer screenshot](/assets/readme-assets/footer_screenshot.png)
+
+        - [Menu screenshot](/assets/readme-assets/menu_screenshot.png)
+
+        - [Ambience ](/assets/readme-assets/ambience_screenshot.png)
+
 - As a recurring customer of the cafe, I want to visit the site to see what events are on and when, so I can decide which events to go to. I want to see when these events are planned, if they recur, and a brief description of these events.
+
+    - Screenshots related to this user story:
+
+        - [Next event screenshot](/assets/readme-assets/next_event_screenshot.png)
+
+        - [Upcoming events screenshot](/assets/readme-assets/upcoming_events_screenshot.png)
+
 - As a potential customer of the cafe who wants to be a game master for a roleplaying game, I want to visit the site to see what resources the cafe provides for hosting my game, so I can decide to host my game at the cafe. I want to have an overview of the resources provided - dice, character sheets, a sound system, perhaps a booth? - any possible costs associated with them and when the resources are available.
+
+    - Screenshots related to this user story:
+
+        - [Resources screenshot](/assets/readme-assets/resources_screenshot.png)
+
+        - [GM form screenshot](/assets/readme-assets/gm_form_screenshot.png)
+
 - As a potential customer of the cafe who wants to be a player in a roleplaying game, I want to visit the site to see if there are any games for me to join, so I can decide to go to the cafe.
+
+    - Screenshots related to this user story:
+
+        - [Next event screenshot](/assets/readme-assets/next_event_screenshot.png)
+
+        - [Upcoming events screenshot](/assets/readme-assets/upcoming_events_screenshot.png)
+
 - As a potential customer of the cafe who is new to roleplaying games, I want to visit the site to see what the cafe offers to help me learn about this hobby, so I can decide to go to the cafe.
+
+    - Screenshots related to this user story:
+
+        - [Information for new players screenshot](/assets/readme-assets/newbies_screenshot.png)
+
+        - [Encouraging videos screenshot](/assets/readme-assets/newbie_videos_screenshot.png)
 
 ---
 
