@@ -184,7 +184,7 @@ I used EyeDropper to determine the hex values of colours. I used #542c23 as the 
 
 ![#fefefe](/assets/readme-assets/fefefe.png)
 
-The icons are sourced from Font Awesome, as icons to link to various social media channels.
+The icons are sourced from Font Awesome, as icons to link to various social media channels, and as icons to enhance certain headings.
 
 Fonts are sourced from Google Fonts. I decided on New Tegomin: I felt it simulated an old type-writer, and the cozy antique feeling it evoked fits with the concept of the Cafe. The Montserrat offset that by being clean and modern. New Tegomin is used for H1 headers, the logo and for the titles in the footer, while everything else is Montserrat.
 
