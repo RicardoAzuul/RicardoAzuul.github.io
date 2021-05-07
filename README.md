@@ -436,7 +436,7 @@ I used the following website for inspiration: https://ranked.bar/
 All text content is written by myself.
 
 ### Media
-I sourced almost all images from [Unsplash](https://unsplash.com), except for one which I sourced from [Pexels](https://www.pexels.com).
+I sourced almost all images from [Unsplash](https://unsplash.com), except for one which I sourced from [Pexels](https://www.pexels.com). I happen to watch both Matt Colville's YouTube videos and the Critical Role stream, which is why I added links to their videos.
 
 ### Acknowledgements
 
