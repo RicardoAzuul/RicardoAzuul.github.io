@@ -457,4 +457,10 @@ img {
     .xl-width {
         width: 330px;
     }
+    #minis-2, #dice {
+        height: 360px;
+        width: 100%;
+        object-fit: cover;
+        margin-top: 25px;
+    }
 }
