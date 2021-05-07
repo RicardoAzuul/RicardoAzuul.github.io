@@ -149,6 +149,8 @@ Initially I was going to have separate pages for the information for players, ga
 - a brief history of the Roleplay Cafe and why it was opened.
 - a brief history of the owners.
 
+*The About page was ultimately left out. It was the least interesting page from a developer's viewpoint, and leaving it out meant having more time to focus on the other pages.*
+
 ---
 
 #### Skeleton Plane
