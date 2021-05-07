@@ -270,8 +270,9 @@ As I was working on the project, I realized that I was too ambitious. The projec
 - A Jumbotron on the main page, to highlight the next upcoming event
 - Calls to action, such as:
     - for players a call to action: perhaps a weekly tournament?
-    - for game masters: sign your game up and win
+    - for game masters: sign up your game and win.
     - for newbies: join this weekly newbie friendly game.
+- A form for players to sign up for games.
 - Due to time constraints I also decided to leave out the About page: it is the least important page, and also the least interesting from a developer's perspective.
 
 ---
