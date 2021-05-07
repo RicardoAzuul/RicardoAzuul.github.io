@@ -417,7 +417,7 @@ Click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/
 ### Run locally
 
 1. If you want to run the project locally, simply clone the repository into the directory of your choice: 
-<br/>
+
 ```
 git clone https://github.com/RicardoAzuul/RicardoAzuul.github.io.git
 ```
