@@ -198,7 +198,7 @@ Fonts are sourced from Google Fonts. I decided on New Tegomin: I felt it simulat
 - [Why Visit Us Players mobile Version](assets/readme-assets/why_visit_us_players_mobile_view.png)
 - [Why Visit Us Gamemasters](/assets/readme-assets/why_visit_us_gamemasters.png)
 - [Why Visit Us Gamemasters tablet](/assets/readme-assets/why_visit_us_gamemasters_tablet.png)
-- [Why Visit Us Gamemasters mobile Version](assets/readme-assets/why_visit_vs_gamemasters_mobile_view.png)
+- [Why Visit Us Gamemasters mobile Version](assets/readme-assets/why_visit_us_gamemasters_mobile_view.png)
 - [Why Visit Us Newbies](/assets/readme-assets/why_visit_us_newbies.png)
 - [Why Visit Us Newbies tablet](/assets/readme-assets/why_visit_us_newbies_tablet.png)
 - [Why Visit Us Newbies mobile Version](assets/readme-assets/why_visit_us_newbies_mobile_view.png)
