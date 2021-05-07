@@ -190,7 +190,7 @@ Fonts are sourced from Google Fonts. I decided on New Tegomin: I felt it simulat
 
 <ins>Wireframes</ins>
 
-- [Home](/assets/readme-assets/Home.png)
+- [Home](/assets/readme-assets/home.png)
 - [Home tablet version](/assets/readme-assets/home_tablet.png)
 - [Home Mobile Version](/assets/readme-assets/home_mobile_view.png)
 - [Why Visit Us Players](/assets/readme-assets/why_visit_us_players.png)
