@@ -135,7 +135,7 @@ img {
 }
 
 /* CSS rules for index.html */
-/* This code came from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_half_page */
+/* The CSS rules for creating a full-width background image came from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_half_page */
 .background {
     background-image: url("/assets/images/home/bar.jpg");
     height: 50%;
