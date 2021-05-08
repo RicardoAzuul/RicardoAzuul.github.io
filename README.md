@@ -314,7 +314,9 @@ These screenshots indicate the responsiveness of the pages on various screens.
 
 ## Testing
 
-Testing was done using Google Chrome, Mozilla Firefox, Microsoft Edge, and also Internet Explorer. I also tested it on an Huawei P smart+ 2019 Android smartphone. The site works fine on all browsers. There is one exception: the CSS rule object-fit: cover doesn't work in Internet Explorer. However, Internet Explorer is technically End of Life and no longer supported (even though probably still used for webapps that don't work with any other browser), so this has been left as is. Implementing a fix for object-fit: cover seems like too much of a hassle, according to a quick Google search.
+Testing was done using Google Chrome, Mozilla Firefox, Microsoft Edge, and also Internet Explorer. I also tested it on an Huawei P smart+ 2019 Android smartphone. The site works fine on all browsers. 
+
+There is one exception: the CSS rule object-fit: cover doesn't work in Internet Explorer. However, Internet Explorer is technically End of Life and no longer supported (even though probably still used for webapps that don't work with any other browser), so this has been left as is. Implementing a fix for object-fit: cover seems like too much of a hassle, according to a quick Google search.
 
 <ins>Test for Readme.md:</ins>
 - :heavy_check_mark: When you click on the links in the TOC, you navigate to the section you clicked on.
