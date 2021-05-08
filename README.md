@@ -266,7 +266,7 @@ Fonts are sourced from Google Fonts. I decided on New Tegomin: I felt it simulat
 
 ### Features Left to Implement
 
-As I was working on the project, I realized that I was too ambitious. The project requirements specify a minimum of 3 pages, but I had 5 pages. This, coupled with the difficulty of finding suitable free stock images to use, meant that I didn't have the time or resources to implement these features:
+As I was working on the project, I realized that I was too ambitious. The project requirements specify a minimum of 3 pages, but I had 5 pages. This, coupled with the difficulty of finding suitable free stock images to use, meant that I didn't have the time to implement these features:
 - A Jumbotron on the main page, to highlight the next upcoming event
 - Calls to action, such as:
     - for players a call to action: perhaps a weekly tournament?
