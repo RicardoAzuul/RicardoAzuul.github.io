@@ -321,7 +321,7 @@ There is one exception: the CSS rule object-fit: cover doesn't work in Internet 
 <ins>Tests for Readme.md:</ins>
 - :heavy_check_mark: When you click on the links in the TOC, you navigate to the section you clicked on.
 - :heavy_check_mark: All links to images open images.
-- - :heavy_check_mark: All links to external websites open properly.
+- :heavy_check_mark: All links to external websites open properly.
 <br/>
 
 <ins>Code validation:</ins>
