@@ -323,8 +323,8 @@ Testing was done using Google Chrome, Mozilla Firefox, Microsoft Edge, and also 
 <ins>Code validation:</ins>
 1. [HTML validation](https://validator.w3.org/nu/)
 - :heavy_check_mark: index.html: the validator indicated a warning: section lacks heading. Changed section to div. Validated again without issue.
-- :heavy_check_mark: visit.html: the validator 7 errors and 1 warning. Made changes to the HTML. Validated again without issue.
-- :heavy_check_mark: menu.html: validation without issue.
+- :heavy_check_mark: visit.html: the validator indicated 7 errors and 1 warning. Made changes to the HTML. Validated again without issue.
+- :heavy_check_mark: menu.html: validated without issue.
 - :heavy_check_mark:  directions.html: the validator indicated a stray end tag div. Validated again without issue.
 2. [CSS validation](https://jigsaw.w3.org/css-validator/)
 - The validator found 2 errors and 757 warnings. The 2 errors are from the Bootstrap CSS file however. With regards to the warnings: a lot of these are also from Bootstrap. These are unknown vendor extensions. There are 7 warnings about unknown vendor extensions in my own CSS file: these come from the Hover.CSS effects. And there are also warnings about "same color for background-color and border-color", but I intentionally set the same colors.
