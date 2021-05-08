@@ -139,7 +139,7 @@ img {
 /* CSS rules for index.html */
 /* The CSS rules for creating a full-width background image came from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_half_page */
 .background {
-    background-image: url("/assets/images/home/bar.jpg");
+    background-image: url("assets/images/home/bar.jpg");
     height: 50%;
     background-position: center;
     background-repeat: no-repeat;
