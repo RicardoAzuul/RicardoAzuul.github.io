@@ -318,8 +318,10 @@ Testing was done using Google Chrome, Mozilla Firefox, Microsoft Edge, and also 
 
 There is one exception: the CSS rule object-fit: cover doesn't work in Internet Explorer. However, Internet Explorer is technically End of Life and no longer supported (even though probably still used for webapps that don't work with any other browser), so this has been left as is. Implementing a fix for object-fit: cover seems like too much of a hassle, according to a quick Google search.
 
-<ins>Test for Readme.md:</ins>
+<ins>Tests for Readme.md:</ins>
 - :heavy_check_mark: When you click on the links in the TOC, you navigate to the section you clicked on.
+- :heavy_check_mark: All links to images open images.
+- - :heavy_check_mark: All links to external websites open properly.
 <br/>
 
 <ins>Code validation:</ins>
@@ -442,7 +444,7 @@ I sourced almost all images from [Unsplash](https://unsplash.com), except for on
 
 ### Acknowledgements
 
-- My wife Elizabeth Lane gave me the idea for this project. She knows I'm enthousiastic about roleplaying games, and she suggested creating this site as a suggestion for my first Milestone Project for Code Institute's Diploma in Software Development.
+- My wife Elizabeth Lane gave me the idea for this project. She knows I'm enthousiastic about roleplaying games, and she suggested creating this site as my first Milestone Project for Code Institute's Diploma in Software Development.
 - I also received help and support from my mentor at Code Institute, [Jack Wachira](https://github.com/iamjackwachira). Using the tabbed navigation on the visit.html page was his suggestion for instance.
 - I would also like to thank to all the people at [Code Institute](https://codeinstitute.net/) for providing the Diploma in Software Development course and giving me the tools and guidance to create this site.
 - And also thanks to [Bootstrap](https://getbootstrap.com/) for helping with implementing their Bootstrap stylings, and [Stackoverflow](https://stackoverflow.com/) and [MDN](https://developer.mozilla.org/en-US/) for helping with finding solutions to coding problems, like the full background image.
