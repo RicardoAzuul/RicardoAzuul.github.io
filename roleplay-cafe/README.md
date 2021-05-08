@@ -8,7 +8,7 @@ As such, the site needs to meet the needs of both visitors and owners:
 - returning visitors need to quickly find relevant information, for instance about events.
 - the owners want to convert new visitors into recurring visitors and have recurring visitors return to the cafe.
 
-To visit the site, open [https://ricardoazuul.github.io](https://ricardoazuul.github.io/)
+To visit the site, open [https://ricardoazuul.github.io/roleplay-cafe](https://ricardoazuul.github.io/roleplay-cafe)
 
 ---
 
@@ -42,43 +42,43 @@ To visit the site, open [https://ricardoazuul.github.io](https://ricardoazuul.gi
 
     - Screenshots related to this user story:
 
-        - [Footer screenshot](/assets/readme-assets/footer_screenshot.png)
+        - [Footer screenshot](assets/readme-assets/footer_screenshot.png)
 
-        - [Menu screenshot](/assets/readme-assets/menu_screenshot.png)
+        - [Menu screenshot](assets/readme-assets/menu_screenshot.png)
 
-        - [Ambience ](/assets/readme-assets/ambience_screenshot.png)
+        - [Ambience ](assets/readme-assets/ambience_screenshot.png)
 
 - As a recurring customer of the cafe, I want to visit the site to see what events are on and when, so I can decide which events to go to. I want to see when these events are planned, if they recur, and a brief description of these events.
 
     - Screenshots related to this user story:
 
-        - [Next event screenshot](/assets/readme-assets/next_event_screenshot.png)
+        - [Next event screenshot](assets/readme-assets/next_event_screenshot.png)
 
-        - [Upcoming events screenshot](/assets/readme-assets/upcoming_events_screenshot.png)
+        - [Upcoming events screenshot](assets/readme-assets/upcoming_events_screenshot.png)
 
 - As a potential customer of the cafe who wants to be a game master for a roleplaying game, I want to visit the site to see what resources the cafe provides for hosting my game, so I can decide to host my game at the cafe. I want to have an overview of the resources provided - dice, character sheets, a sound system, perhaps a booth? - any possible costs associated with them and when the resources are available.
 
     - Screenshots related to this user story:
 
-        - [Resources screenshot](/assets/readme-assets/resources_screenshot.png)
+        - [Resources screenshot](assets/readme-assets/resources_screenshot.png)
 
-        - [GM form screenshot](/assets/readme-assets/gm_form_screenshot.png)
+        - [GM form screenshot](assets/readme-assets/gm_form_screenshot.png)
 
 - As a potential customer of the cafe who wants to be a player in a roleplaying game, I want to visit the site to see if there are any games for me to join, so I can decide to go to the cafe.
 
     - Screenshots related to this user story:
 
-        - [Next event screenshot](/assets/readme-assets/next_event_screenshot.png)
+        - [Next event screenshot](assets/readme-assets/next_event_screenshot.png)
 
-        - [Upcoming events screenshot](/assets/readme-assets/upcoming_events_screenshot.png)
+        - [Upcoming events screenshot](assets/readme-assets/upcoming_events_screenshot.png)
 
 - As a potential customer of the cafe who is new to roleplaying games, I want to visit the site to see what the cafe offers to help me learn about this hobby, so I can decide to go to the cafe.
 
     - Screenshots related to this user story:
 
-        - [Information for new players screenshot](/assets/readme-assets/newbies_screenshot.png)
+        - [Information for new players screenshot](assets/readme-assets/newbies_screenshot.png)
 
-        - [Encouraging videos screenshot](/assets/readme-assets/newbie_videos_screenshot.png)
+        - [Encouraging videos screenshot](assets/readme-assets/newbie_videos_screenshot.png)
 
 ---
 
@@ -212,15 +212,15 @@ I used EyeDropper to determine the hex values of colours. I used #542c23 as the 
 
 #542c23
 
-![#542c23](/assets/readme-assets/542c23.png)
+![#542c23](assets/readme-assets/542c23.png)
 
 #5A94B8
 
-![#5A94B8](/assets/readme-assets/5a94b8.png)
+![#5A94B8](assets/readme-assets/5a94b8.png)
 
 #fefefe
 
-![#fefefe](/assets/readme-assets/fefefe.png)
+![#fefefe](assets/readme-assets/fefefe.png)
 
 The icons are sourced from Font Awesome, as icons to link to various social media channels, and as icons to enhance certain headings.
 
@@ -228,24 +228,24 @@ Fonts are sourced from Google Fonts. I decided on New Tegomin: I felt it simulat
 
 <ins>Wireframes</ins>
 
-- [Home](/assets/readme-assets/home.png)
-- [Home tablet version](/assets/readme-assets/home_tablet.png)
-- [Home Mobile Version](/assets/readme-assets/home_mobile_view.png)
-- [Why Visit Us Players](/assets/readme-assets/why_visit_us_players.png)
-- [Why Visit Us Players tablet](/assets/readme-assets/why_visit_us_players_tablet.png)
+- [Home](assets/readme-assets/home.png)
+- [Home tablet version](assets/readme-assets/home_tablet.png)
+- [Home Mobile Version](assets/readme-assets/home_mobile_view.png)
+- [Why Visit Us Players](assets/readme-assets/why_visit_us_players.png)
+- [Why Visit Us Players tablet](assets/readme-assets/why_visit_us_players_tablet.png)
 - [Why Visit Us Players mobile Version](assets/readme-assets/why_visit_us_players_mobile_view.png)
-- [Why Visit Us Gamemasters](/assets/readme-assets/why_visit_us_gamemasters.png)
-- [Why Visit Us Gamemasters tablet](/assets/readme-assets/why_visit_us_gamemasters_tablet.png)
+- [Why Visit Us Gamemasters](assets/readme-assets/why_visit_us_gamemasters.png)
+- [Why Visit Us Gamemasters tablet](assets/readme-assets/why_visit_us_gamemasters_tablet.png)
 - [Why Visit Us Gamemasters mobile Version](assets/readme-assets/why_visit_us_gamemasters_mobile_view.png)
-- [Why Visit Us Newbies](/assets/readme-assets/why_visit_us_newbies.png)
-- [Why Visit Us Newbies tablet](/assets/readme-assets/why_visit_us_newbies_tablet.png)
+- [Why Visit Us Newbies](assets/readme-assets/why_visit_us_newbies.png)
+- [Why Visit Us Newbies tablet](assets/readme-assets/why_visit_us_newbies_tablet.png)
 - [Why Visit Us Newbies mobile Version](assets/readme-assets/why_visit_us_newbies_mobile_view.png)
-- [Menu](/assets/readme-assets/menu.png)
-- [Menu tablet version](/assets/readme-assets/menu_tablet.png)
-- [Menu mobile Version](/assets/readme-assets/menu_mobile_view.png)
-- [Directions](/assets/readme-assets/directions.png)
-- [Directions tablet](/assets/readme-assets/directions_tablet.png)
-- [Directions mobile Version](/assets/readme-assets/directions_mobile_view.png)
+- [Menu](assets/readme-assets/menu.png)
+- [Menu tablet version](assets/readme-assets/menu_tablet.png)
+- [Menu mobile Version](assets/readme-assets/menu_mobile_view.png)
+- [Directions](assets/readme-assets/directions.png)
+- [Directions tablet](assets/readme-assets/directions_tablet.png)
+- [Directions mobile Version](assets/readme-assets/directions_mobile_view.png)
 
 ---
 
@@ -305,10 +305,10 @@ The website is fully responsive on the following screens: smartphone, iPad, iPad
 
 These screenshots indicate the responsiveness of the pages on various screens.
 
-- [Index.html](/assets/readme-assets/home_responsive.png)
-- [Visit.html](/assets/readme-assets/visit_responsive.png)
-- [Menu.html](/assets/readme-assets/menu_responsive.png)
-- [Directions.html](/assets/readme-assets/directions_responsive.png)
+- [Index.html](assets/readme-assets/home_responsive.png)
+- [Visit.html](assets/readme-assets/visit_responsive.png)
+- [Menu.html](assets/readme-assets/menu_responsive.png)
+- [Directions.html](assets/readme-assets/directions_responsive.png)
 
 ---
 
